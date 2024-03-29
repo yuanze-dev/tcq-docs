@@ -2,10 +2,15 @@
 :root {
   --vp-c-brand-1: #00BB2F;
   /* --vp-c-brand-2: #FAF6F2; */
-  section > div.item > h2 {
-    font-size: 1rem;
-  }
-  section > div.items a p{
-    text-indent: 0.8em;
-  }
+}
+
+section > div.item > h2 {
+  font-size: 1rem;
+}
+section > div.items a p{
+  text-indent: 0.8em;
+}
+
+.vp-doc table > tbody > tr > td{
+  vertical-align: top
 }
