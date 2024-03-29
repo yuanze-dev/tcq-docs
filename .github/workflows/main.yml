@@ -40,9 +40,4 @@ jobs:
             --accessKeySecret $ACCESS_KEY_SECRET \
             --bucket docs-lusun-web \
             --endpoint oss-cn-beijing.aliyuncs.com
-            
-      # 发送飞书通知
-      - name: Send Feishu Notification
-        run: |
-          lusun-scripts feishu \
-            '{"msg_type": "text", "content": {"text": "https://docs.lusun.com 发布完成"}}'
+          
