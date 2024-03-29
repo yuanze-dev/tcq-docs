@@ -31,8 +31,13 @@ jobs:
         
       # 使用lusun-scripts部署到阿里云OSS
       - name: Deploy to OSS
+        env:
+          ACCESS_KEY_ID: ${{ secrets.ACCESSKEYID }}
+          ACCESS_KEY_SECRET: ${{ secrets.ACCESSKEYSECRET }}
         run: |
           lusun-scripts deploy \
+            --accessKeyId $ACCESS_KEY_ID \
+            --accessKeySecret $ACCESS_KEY_SECRET \
             --bucket docs-lusun-web \
             --endpoint oss-cn-beijing.aliyuncs.com
             
