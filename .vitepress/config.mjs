@@ -17,10 +17,9 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: "入门教程",
+        text: "基础教程",
         collapsed: false,
         items: [
-          { text: "👏 欢迎你", link: "index.md" },
           { text: "📥 下载安装", link: "guide/download.md" },
           { text: "📝 台词创建", link: "guide/create.md" },
           { text: "🎬 开启提词", link: "guide/prompt.md" },
