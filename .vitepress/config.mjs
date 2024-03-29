@@ -12,7 +12,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "芦笋录频", link: "https://lusun.com" },
+      { text: "芦笋录屏", link: "https://lusun.com" },
       { text: "关于我们", link: "https://lusun.com/about" },
     ],
     sidebar: [
