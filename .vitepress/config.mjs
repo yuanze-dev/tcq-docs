@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/tcq/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: {
@@ -60,7 +61,6 @@ export default defineConfig({
   title: "芦笋提词器",
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
-  assetsDir: "tcq/assets",
   spandown: {
     image: {
       // 默认禁用图片懒加载
