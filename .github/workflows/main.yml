@@ -11,7 +11,13 @@ jobs:
           persist-credentials: false
           ref: main
           submodules: true
-          
+      # 设置npm配置
+      - name: Set npm configuration
+        run: |
+          npm config set registry https://registry.npmmirror.com
+          npm config set @yuanze:registry https://jihulab.com/api/v4/projects/19983/packages/npm/
+          npm config set -- "//jihulab.com/api/v4/projects/19983/packages/npm/:_authToken" "${{ secrets.CI_JOB_TOKEN }}"
+      
       # 安装依赖
       - name: Install Dependencies
         run: npm i
