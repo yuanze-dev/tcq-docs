@@ -4,13 +4,33 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   ignoreDeadLinks: true,
   title: "芦笋提词器",
-  description: "智能跟读、滚屏提词和隐形提词的电脑端提词工具",
-  lang: "zh-CN",
-  // rewrites: {
-  //   "/": "guide/overview.md",
-  // },
+  description: "智能跟读、滚屏提词和隐形提词的提词工具",
+  lang: "zh-Hans",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+
+    outline: {
+      label: "页面导航",
+    },
+
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "medium",
+      },
+    },
+
+    langMenuLabel: "多语言",
+    returnToTopLabel: "回到顶部",
+    sidebarMenuLabel: "菜单",
+    darkModeSwitchLabel: "切换主题",
+    lightModeSwitchTitle: "切换到浅色模式",
+    darkModeSwitchTitle: "切换到深色模式",
     nav: [
       { text: "芦笋录屏", link: "https://lusun.com" },
       { text: "关于我们", link: "https://lusun.com/about" },
@@ -38,9 +58,6 @@ export default defineConfig({
           },
         ],
       },
-    ],
-    socialLinks: [
-      { icon: "github", link: "https://github.com/yuanze-team/docs-test" },
     ],
   },
 });
