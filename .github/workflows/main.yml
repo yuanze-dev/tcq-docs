@@ -1,4 +1,5 @@
 on:
+  workflow_dispatch:
   push:
     branches: [ main ] # 当push代码到main分支时会自动触发action
     
