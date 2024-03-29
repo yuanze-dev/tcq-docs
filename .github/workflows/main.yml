@@ -1,0 +1,38 @@
+on:
+  push:
+    branches: [ main ] # 当push代码到main分支时会自动触发action
+    
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest        # GitHub分配的运行平台，无需更改
+    steps:  
+      - uses: actions/checkout@v2     # 使用action库 actions/checkout获取源码，执行你的操作
+        with:
+          persist-credentials: false
+          ref: main
+          submodules: true
+          
+      # 安装依赖
+      - name: Install Dependencies
+        run: npm i
+        
+      # 打包
+      - name: Build
+        run: npm run build
+        
+      # 安装lusun-scripts
+      - name: Install lusun-scripts
+        run: npm i -g @yuanze/lusun-scripts
+        
+      # 使用lusun-scripts部署到阿里云OSS
+      - name: Deploy to OSS
+        run: |
+          lusun-scripts deploy \
+            --bucket docs-lusun-web \
+            --endpoint oss-cn-beijing.aliyuncs.com
+            
+      # 发送飞书通知
+      - name: Send Feishu Notification
+        run: |
+          lusun-scripts feishu \
+            '{"msg_type": "text", "content": {"text": "https://docs.lusun.com 发布完成"}}'
