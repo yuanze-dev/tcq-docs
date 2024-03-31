@@ -3,7 +3,61 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/tcq/",
+  ignoreDeadLinks: true,
+  title: "芦笋提词器",
+  description: "智能跟读、滚屏提词和隐形提词的提词工具",
+  lang: "zh-Hans",
+  spandown: {
+    image: {
+      // 默认禁用图片懒加载
+      lazyLoading: true,
+    },
+  },
   themeConfig: {
+    search: {
+      provider: "local",
+      options: {
+        placeholder: "搜索文档",
+        translations: {
+          button: {
+            buttonText: "搜索文档",
+            buttonAriaLabel: "搜索文档",
+          },
+          modal: {
+            searchBox: {
+              resetButtonTitle: "清除查询条件",
+              resetButtonAriaLabel: "清除查询条件",
+              cancelButtonText: "取消",
+              cancelButtonAriaLabel: "取消",
+            },
+            startScreen: {
+              recentSearchesTitle: "搜索历史",
+              noRecentSearchesText: "没有搜索历史",
+              saveRecentSearchButtonTitle: "保存至搜索历史",
+              removeRecentSearchButtonTitle: "从搜索历史中移除",
+              favoriteSearchesTitle: "收藏",
+              removeFavoriteSearchButtonTitle: "从收藏中移除",
+            },
+            errorScreen: {
+              titleText: "无法获取结果",
+              helpText: "你可能需要检查你的网络连接",
+            },
+            footer: {
+              selectText: "选择",
+              navigateText: "切换",
+              closeText: "关闭",
+              searchByText: "搜索提供者",
+            },
+            noResultsScreen: {
+              noResultsText: "无法找到相关结果",
+              suggestedQueryText: "你可以尝试查询",
+              reportMissingResultsText: "你认为该查询应该有结果？",
+              reportMissingResultsLinkText: "点击反馈",
+            },
+          },
+        },
+      },
+    },
     // https://vitepress.dev/reference/default-theme-config
     docFooter: {
       prev: "上一页",
@@ -37,12 +91,12 @@ export default defineConfig({
         text: "基础教程",
         collapsed: false,
         items: [
-          { text: "📥 下载安装", link: "guide/download.md" },
-          { text: "📝 台词创建", link: "guide/create.md" },
-          { text: "🎬 开启提词", link: "guide/prompt.md" },
-          { text: "⚙️ 提词设置", link: "guide/setting.md" },
-          { text: "🌟 会员特权", link: "guide/vip.md" },
-          { text: "❓ 常见问题", link: "guide/faq.md" },
+          { text: "📥 下载安装", link: "basic/download" },
+          { text: "📝 台词创建", link: "basic/create" },
+          { text: "🎬 开启提词", link: "basic/prompt" },
+          { text: "⚙️ 提词设置", link: "basic/setting" },
+          { text: "🌟 会员特权", link: "basic/vip" },
+          { text: "❓ 常见问题", link: "basic/faq" },
         ],
       },
       {
@@ -56,15 +110,5 @@ export default defineConfig({
         ],
       },
     ],
-  },
-  ignoreDeadLinks: true,
-  title: "芦笋提词器",
-  description: "智能跟读、滚屏提词和隐形提词的提词工具",
-  lang: "zh-Hans",
-  spandown: {
-    image: {
-      // 默认禁用图片懒加载
-      lazyLoading: true,
-    },
   },
 });
