@@ -1,8 +1,9 @@
 ---
 description: 这篇文章介绍了芦笋提词器终身版+OBS 精品课的超豪华套餐内容
 prev:
-  text: '📥 下载安装'
-  link: '/basic/download'
+  text: '⌨️ 提词遥控器'
+  link: '/advanced/remote'
+next: false
 ---
 
 # 🫡 终身版+OBS精品课

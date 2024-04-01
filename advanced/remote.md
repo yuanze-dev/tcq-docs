@@ -1,8 +1,9 @@
 ---
 description: 关于如何使用芦笋遥控器，看这篇就够了
+prev: next
 next:
-  text: '🎬 开启提词'
-  link: '/basic/prompt'
+  text: '🫡 终身版+OBS精品课'
+  link: '/advanced/obs'
 ---
 
 # ⌨️ 提词遥控器
