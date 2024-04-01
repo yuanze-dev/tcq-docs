@@ -48,9 +48,10 @@ next:
 
 ### 用户交流群
 
-欢迎加入芦笋提词器用户交流群，期待你的反馈和建议。
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
 
 <div align="center">
-  <img src="./public/.gitbook/assets/yonghuqun.png" alt="" width="338">
+  <img src="./public/.gitbook/assets/quncode.png" alt="" width="198">
+  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
 </div>
 

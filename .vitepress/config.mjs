@@ -8,6 +8,7 @@ export default defineConfig({
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
   head: [
+    ["link", { rel: "icon", href: "../public/images/favicon.ico" }],
     [
       "script",
       {},
@@ -78,6 +79,7 @@ export default defineConfig({
     },
 
     outline: {
+      level: [2, 3],
       label: "页面导航",
     },
 
@@ -117,7 +119,11 @@ export default defineConfig({
         items: [
           {
             text: "⌨️ 提词遥控器",
-            link: "advanced/remote.md",
+            link: "advanced/remote",
+          },
+          {
+            text: "🫡 终身版+OBS精品课",
+            link: "advanced/obs",
           },
         ],
       },

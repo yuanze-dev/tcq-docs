@@ -48,3 +48,13 @@ next:
 如果词条太多，或者标题未做明显标记，一时找不到，点击顶部 🔍 按钮，输入词条名称或词条中包含的文字，就可以找到您所需要的台词。
 
 <img src="../public/.gitbook/assets/搜索.gif" alt="">
+
+**用户交流群**
+
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
+
+<div align="center">
+  <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
+  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+</div>
+

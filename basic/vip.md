@@ -23,19 +23,27 @@ next:
 
 你可以通过芦笋提词器的客户端直接升级，也可以通过访问 [https://tcq.lusun.com/pricing/](https://tcq.lusun.com/pricing/) 付费升级
 
-<img src="../public/.gitbook/assets/pricing.png" alt="">
+<img src="../public/.gitbook/assets/price0401.png" alt="">
 
 #### 【终身版 + 直播课】介绍
 
-现在购买【终身版+直播课】套餐：可以获得价值 ¥299 的 OBS 宝藏教学礼包
+现在购买【终身版+直播课】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
 
 **课程内容大纲**：
 
 <img src="../public/.gitbook/assets/xzwk5.png" alt="">
 
-如何学习课程：购买【终身版 + 直播课】后，你将获得小鹅通的观看链接
+购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
 <div align="center">
   <img src="../public/.gitbook/assets/xzwk6.png" alt="" width="375">
 </div>
 
+**用户交流群**
+
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
+
+<div align="center">
+  <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
+  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+</div>
