@@ -25,9 +25,11 @@ jobs:
       - name: Build
         run: npm run build
 
-       # 复制.vitepress/dist目录到根目录下
-      - name: Copy .vitepress/dist to root
-        run: cp -r .vitepress/dist/* .
+      # 创建dist目录并复制.vitepress/dist内容到dist目录下
+      - name: Copy .vitepress/dist to dist
+        run: |
+          mkdir -p dist
+          cp -r .vitepress/dist/* dist/
         
       # 安装lusun-scripts
       - name: Install lusun-scripts
