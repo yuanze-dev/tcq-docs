@@ -7,7 +7,7 @@ export default defineConfig({
   title: "芦笋提词器",
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
-  spandown: {
+  markdown: {
     image: {
       // 默认禁用图片懒加载
       lazyLoading: true,
@@ -71,7 +71,7 @@ export default defineConfig({
     lastUpdated: {
       text: "最后更新于",
       formatOptions: {
-        dateStyle: "short",
+        dateStyle: "full",
         timeStyle: "medium",
       },
     },

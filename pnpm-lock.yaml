@@ -775,7 +775,7 @@ packages:
       }
     dev: false
 
-  /@types/spandown-it@13.0.7:
+  /@types/markdown-it@13.0.7:
     resolution:
       {
         integrity: sha512-U/CBi2YUUcTHBt5tjO2r5QV/x0Po6nsYwQU4Y04fBS6vfoImaiZ6f8bi3CjTCxBPQSO1LMyUqkByzi8AidyxfA==,
@@ -1152,7 +1152,7 @@ packages:
       "@jridgewell/sourcemap-codec": 1.4.15
     dev: false
 
-  /span.js@8.11.1:
+  /mark.js@8.11.1:
     resolution:
       {
         integrity: sha512-1I+1qpDt4idfgLQG+BNWmrqku+7/2bi5nLf4YwF8y8zXvmfiTBY3PV3ZibfrjBueCByROpuBjLLFCajqkgYoLQ==,
@@ -1341,10 +1341,10 @@ packages:
       }
     hasBin: true
     peerDependencies:
-      spandown-it-mathjax3: ^4
+      markdown-it-mathjax3: ^4
       postcss: ^8
     peerDependenciesMeta:
-      spandown-it-mathjax3:
+      markdown-it-mathjax3:
         optional: true
       postcss:
         optional: true
@@ -1353,13 +1353,13 @@ packages:
       "@docsearch/js": 3.6.0(@algolia/client-search@4.23.2)(search-insights@2.13.0)
       "@shikijs/core": 1.2.1
       "@shikijs/transformers": 1.2.1
-      "@types/spandown-it": 13.0.7
+      "@types/markdown-it": 13.0.7
       "@vitejs/plugin-vue": 5.0.4(vite@5.2.6)(vue@3.4.21)
       "@vue/devtools-api": 7.0.25(vue@3.4.21)
       "@vueuse/core": 10.9.0(vue@3.4.21)
       "@vueuse/integrations": 10.9.0(focus-trap@7.5.4)(vue@3.4.21)
       focus-trap: 7.5.4
-      span.js: 8.11.1
+      mark.js: 8.11.1
       minisearch: 6.3.0
       shiki: 1.2.1
       vite: 5.2.6
