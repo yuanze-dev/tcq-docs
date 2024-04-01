@@ -32,7 +32,7 @@ next:
 
 <div align="center" style="margin:20px 0;">
   <video controls width="80%">
-    <source src=".gitbook/assets/teleprompter.mp4" type="video/mp4" />
+    <source src="./public/.gitbook/assets/teleprompter.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -41,7 +41,7 @@ next:
 
 <div align="center">
   <video controls width="50%">
-    <source src=".gitbook/assets/android.mp4" type="video/mp4" />
+    <source src="./public/.gitbook/assets/android.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -51,6 +51,6 @@ next:
 欢迎加入芦笋提词器用户交流群，期待你的反馈和建议。
 
 <div align="center">
-  <img src=".gitbook/assets/yonghuqun.png" alt="" width="338">
+  <img src="./public/.gitbook/assets/yonghuqun.png" alt="" width="338">
 </div>
 
