@@ -8,7 +8,6 @@ export default defineConfig({
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
   head: [
-    ["link", { rel: "icon", href: "https://lusun.com/favicon.ico" }],
     [
       "script",
       {},
