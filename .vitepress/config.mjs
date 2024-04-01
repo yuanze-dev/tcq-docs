@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/tcq/",
+  // base: "/tcq/",
   ignoreDeadLinks: true,
   title: "芦笋提词器",
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
