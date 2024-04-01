@@ -47,6 +47,6 @@ jobs:
           lusun-scripts deploy \
             --accessKeyId $ACCESS_KEY_ID \
             --accessKeySecret $ACCESS_KEY_SECRET \
-            --directoryPath test \
+            --directoryPath tcq \
             --bucket docs-lusun-web \
             --endpoint oss-cn-beijing.aliyuncs.com
