@@ -11,17 +11,17 @@ next: false
 Q：如果链接过副屏后，无法打开提词器窗口？那你需要这样做
 
 <video controls>
-  <source src="../.gitbook/assets/fupingwenti.mp4" type="video/mp4" />
+  <source src="../public/gitbook/assets/fupingwenti.mp4" type="video/mp4" />
 </video>
 
 Q：如果你的智能跟读不滚动，那应该是麦克风识不识别，如果判断呢，请参考
 
 <video controls>
-  <source src="../.gitbook/assets/shibiemaikefeng.mp4" type="video/mp4" />
+  <source src="../public/gitbook/assets/shibiemaikefeng.mp4" type="video/mp4" />
 </video>
 
 Q：这里介绍了芦笋提词器日志查找方式
 
 <video controls>
-  <source src="../.gitbook/assets/rizhichazhao (1).mp4" type="video/mp4" />
+  <source src="../public/gitbook/assets/rizhichazhao (1).mp4" type="video/mp4" />
 </video>
