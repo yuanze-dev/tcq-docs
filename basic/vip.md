@@ -23,7 +23,7 @@ next:
 
 你可以通过芦笋提词器的客户端直接升级，也可以通过访问 [https://tcq.lusun.com/pricing/](https://tcq.lusun.com/pricing/) 付费升级
 
-<img src="../public/gitbook/assets/pricing.png" alt="">
+<img src="../public/.gitbook/assets/pricing.png" alt="">
 
 #### 【终身版 + 直播课】介绍
 
@@ -31,11 +31,11 @@ next:
 
 **课程内容大纲**：
 
-<img src="../public/gitbook/assets/xzwk5.png" alt="">
+<img src="../public/.gitbook/assets/xzwk5.png" alt="">
 
 如何学习课程：购买【终身版 + 直播课】后，你将获得小鹅通的观看链接
 
 <div align="center">
-  <img src="../public/gitbook/assets/xzwk6.png" alt="" width="375">
+  <img src="../public/.gitbook/assets/xzwk6.png" alt="" width="375">
 </div>
 

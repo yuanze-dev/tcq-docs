@@ -12,9 +12,9 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 ### 功能演示视频
 
-<video controls>
-  <source src="../public/gitbook/assets/ykqdemo1.mp4" type="video/mp4" />
-</video>
+<!-- <video controls>
+  <source src="../public/.gitbook/assets/ykqdemo1.mp4" type="video/mp4" />
+</video> -->
 
 芦笋遥控器是一款支持遥控提词、PPT 翻页、以及遥控直播录播的三合一蓝牙遥控器。
 
@@ -22,27 +22,27 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 同时，芦笋遥控器也可适配第三方直播录屏软件，如 OBS 和抖音直播伴侣等。
 
-<img src="../public/gitbook/assets/yaokongqizhichi.png" alt="">
+<img src="../public/.gitbook/assets/yaokongqizhichi.png" alt="">
 
 ### 操作教程 <a href="#f0-9f-8e-a5-e6-93-8d-e4-bd-9c-e6-95-99-e7-a8-8b" id="f0-9f-8e-a5-e6-93-8d-e4-bd-9c-e6-95-99-e7-a8-8b"></a>
 
 
 <video controls>
-  <source src="../public/gitbook/assets/ykqshiyong.mp4" type="video/mp4" />
+  <source src="../public/.gitbook/assets/ykqshiyong.mp4" type="video/mp4" />
 </video>
 
 
 ### 结合 OBS 使用
 
 <video controls>
-  <source src="../public/gitbook/assets/obs.mp4" type="video/mp4" />
+  <source src="../public/.gitbook/assets/obs.mp4" type="video/mp4" />
 </video>
 
 
 ### 结合直播伴侣使用
 
 <video controls>
-  <source src="../public/gitbook/assets/zhibobanlv.mp4" type="video/mp4" />
+  <source src="../public/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" />
 </video>
 
 ## 二.如何购买
@@ -53,7 +53,7 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 芦笋遥控器单品购买如下：
 
-<img src="../public/gitbook/assets/yaokongqigoumai.jpeg" alt="" width="375">
+<img src="../public/.gitbook/assets/yaokongqigoumai.jpeg" alt="" width="375">
 
 ## 三、如何连接电脑 <a href="#e4-b8-89-e3-80-81-e5-a6-82-e4-bd-95-e8-bf-9e-e6-8e-a5-e7-94-b5-e8-84-91" id="e4-b8-89-e3-80-81-e5-a6-82-e4-bd-95-e8-bf-9e-e6-8e-a5-e7-94-b5-e8-84-91"></a>
 
@@ -67,23 +67,23 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 
 3.点击“添加蓝牙或其他设备”
 
-<img src="../public/gitbook/assets/ykqthree.png" alt="">
+<img src="../public/.gitbook/assets/ykqthree.png" alt="">
 
 4.点击“鼠标、键盘、手写板”一栏
 
-<img src="../public/gitbook/assets/ykqfour.png" alt="">
+<img src="../public/.gitbook/assets/ykqfour.png" alt="">
 
 5.寻找 **lusun**，点击进行配对连接
 
-<img src="../public/gitbook/assets/ykqfive.png" alt="">
+<img src="../public/.gitbook/assets/ykqfive.png" alt="">
 
 6.显示已完成，代表连接成功，就可以正常使用
 
-<img src="../public/gitbook/assets/ykqsix.png" alt="">
+<img src="../public/.gitbook/assets/ykqsix.png" alt="">
 
 ## 四、遥控器按键说明 <a href="#e5-9b-9b-e3-80-81-e9-81-a5-e6-8e-a7-e5-99-a8-e6-8c-89-e9-94-ae-e8-af-b4-e6-98-8e" id="e5-9b-9b-e3-80-81-e9-81-a5-e6-8e-a7-e5-99-a8-e6-8c-89-e9-94-ae-e8-af-b4-e6-98-8e"></a>
 
-<img src="../public/gitbook/assets/ykqanjian.png" alt="">
+<img src="../public/.gitbook/assets/ykqanjian.png" alt="">
 
 ## 五、常见问题 <a href="#e4-ba-94-e3-80-81-e5-b8-b8-e8-a7-81-e9-97-ae-e9-a2-98" id="e4-ba-94-e3-80-81-e5-b8-b8-e8-a7-81-e9-97-ae-e9-a2-98"></a>
 
@@ -102,4 +102,4 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 如有使用疑问，请联系客服小助手[\
 ](https://help.lusun.com/gao-xiao-ti-ci-lu-sun-ti-ci-qi-jie-jue-fang-an/)
 
-<img src="../public/gitbook/assets/yonghuqun.png" alt="" width="338">
+<img src="../public/.gitbook/assets/yonghuqun.png" alt="" width="338">
