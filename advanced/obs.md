@@ -16,14 +16,21 @@ prev:
 
 ### 课程内容大纲
 
-<img src="../public/.gitbook/assets/xzwk5.png" alt="">
+<div align="center">
+  <img src="../public/.gitbook/assets/xzwk5.png" alt="" width="375">
+</div>
 
 ### 课程海报介绍
 
+<div align="center">
 <img src="../public/.gitbook/assets/xzwk6.png" alt="" width="375">
+</div>
+
 
 ### 如何学习课程
 
 购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
-<img src="../public/.gitbook/assets/xiaoxiao.jpeg" alt="" width="198">
+<div align="center">
+  <img src="../public/.gitbook/assets/xiaoxiao.jpeg" alt="" width="198">
+</div>
