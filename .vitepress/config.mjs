@@ -2,11 +2,24 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: "/tcq/",
+  base: "/tcq/",
   ignoreDeadLinks: true,
   title: "芦笋提词器",
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
+  head: [
+    [
+      "script",
+      {},
+      `var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?592ba55993f3df6afcc69f8088276562";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();`,
+    ],
+  ],
   markdown: {
     image: {
       // 默认禁用图片懒加载
@@ -75,7 +88,6 @@ export default defineConfig({
         timeStyle: "medium",
       },
     },
-
     langMenuLabel: "多语言",
     returnToTopLabel: "回到顶部",
     sidebarMenuLabel: "菜单",
