@@ -105,12 +105,12 @@ export default defineConfig({
         text: "基础教程",
         collapsed: false,
         items: [
-          { text: "📥 下载安装", link: "basic/download" },
-          { text: "📝 台词创建", link: "basic/create" },
-          { text: "🎬 开启提词", link: "basic/prompt" },
-          { text: "⚙️ 提词设置", link: "basic/setting" },
-          { text: "🌟 会员特权", link: "basic/vip" },
-          { text: "❓ 常见问题", link: "basic/faq" },
+          { text: "📥 下载安装", link: "/basic/download" },
+          { text: "📝 台词创建", link: "/basic/create" },
+          { text: "🎬 开启提词", link: "/basic/prompt" },
+          { text: "⚙️ 提词设置", link: "/basic/setting" },
+          { text: "🌟 会员特权", link: "/basic/vip" },
+          { text: "❓ 常见问题", link: "/basic/faq" },
         ],
       },
       {
@@ -119,11 +119,11 @@ export default defineConfig({
         items: [
           {
             text: "⌨️ 提词遥控器",
-            link: "advanced/remote",
+            link: "/advanced/remote",
           },
           {
             text: "🫡 终身版+OBS精品课",
-            link: "advanced/obs",
+            link: "/advanced/obs",
           },
         ],
       },
