@@ -13,14 +13,14 @@ description: 这篇文章介绍了芦笋提词器终身版+OBS 精品课的超�
 
 ### 课程内容大纲
 
-<div align="center">
-  <img src="../public/.gitbook/assets/xzwk5.png" alt="" width="375">
+<div align="center" style="margin:20px 0;">
+  <img src="../public/.gitbook/assets/xzwk5.png" alt="">
 </div>
 
 ### 课程海报介绍
 
 <div align="center">
-<img src="../public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375">
+  <img src="../public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375">
 </div>
 
 
