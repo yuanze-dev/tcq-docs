@@ -1,9 +1,5 @@
 ---
 description: 这篇文章介绍了芦笋提词器终身版+OBS 精品课的超豪华套餐内容
-prev:
-  text: '⌨️ 提词遥控器'
-  link: '/advanced/remote'
-next: false
 ---
 
 # 🫡 终身版+OBS精品课
@@ -24,7 +20,7 @@ next: false
 ### 课程海报介绍
 
 <div align="center">
-<img src="../public/.gitbook/assets/xzwk6.png" alt="" width="375">
+<img src="../public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375">
 </div>
 
 

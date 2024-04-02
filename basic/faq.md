@@ -1,9 +1,5 @@
 ---
 description: 这里记录了芦笋提词器的常见FAQ
-prev:
-  text: '🌟 会员特权'
-  link: '/basic/vip'
-next: false
 ---
 
 # ❓ 常见问题
@@ -28,7 +24,8 @@ next: false
 
 ### Q4：如何设置背景透明度以及调整滚动速度？
 
-具体操作设置，请参考&#x20;
+具体操作设置，请参考 [提词设置](/basic/setting) 教程
+
 
 **用户交流群**
 

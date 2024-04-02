@@ -123,7 +123,7 @@ export default defineConfig({
           },
           {
             text: "🫡 终身版+OBS精品课",
-            link: "/advanced/obs",
+            link: "/advanced/obslesson",
           },
         ],
       },

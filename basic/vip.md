@@ -1,11 +1,5 @@
 ---
 description: 这里介绍了芦笋会员的购买价格及功能区分
-prev:
-  text: '⚙️ 提词设置'
-  link: '/basic/setting'
-next:
-  text: '❓ 常见问题'
-  link: '/basic/faq'
 ---
 
 # 🌟 会员特权
@@ -36,7 +30,7 @@ next:
 购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
 <div align="center">
-  <img src="../public/.gitbook/assets/xzwk6.png" alt="" width="375">
+  <img src="../public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375">
 </div>
 
 **用户交流群**

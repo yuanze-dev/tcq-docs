@@ -1,11 +1,5 @@
 ---
 description: 这里介绍了如何给提词器设置背景透明度，速度快慢等
-prev:
-  text: '🎬 开启提词'
-  link: '/basic/prompt'
-next:
-  text: '🌟 会员特权'
-  link: '/basic/vip'
 ---
 
 # ⚙️ 提词设置

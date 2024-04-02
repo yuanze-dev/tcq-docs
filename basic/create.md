@@ -1,11 +1,5 @@
 ---
 description: 这里介绍了如何在芦笋提词器创建文稿
-prev:
-  text: '📥 下载安装'
-  link: '/basic/download'
-next:
-  text: '🎬 开启提词'
-  link: '/basic/prompt'
 ---
 
 # 📝 台词创建

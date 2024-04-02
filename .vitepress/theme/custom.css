@@ -1,7 +1,7 @@
 /* .vitepress/theme/custom.css */
 :root {
-  --vp-c-brand-1: #00BB2F;
-  /* --vp-c-brand-2: #FAF6F2; */
+  --vp-c-brand-1: #69C71B;
+  --vp-c-brand-2: #2F8F00;
 }
 
 section > div.item > h2 {
