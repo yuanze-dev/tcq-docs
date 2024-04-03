@@ -111,12 +111,17 @@ export default defineConfig({
           { text: "⚙️ 提词设置", link: "/basic/setting" },
           { text: "🌟 会员特权", link: "/basic/vip" },
           { text: "❓ 常见问题", link: "/basic/faq" },
+          { text: "🗳️ 申请发票", link: "/basic/invoice" },
         ],
       },
       {
         text: "进阶教程",
         collapsed: false,
         items: [
+          {
+            text: "🥳 免费领会员",
+            link: "/advanced/accessvip",
+          },
           {
             text: "⌨️ 提词遥控器",
             link: "/advanced/remote",

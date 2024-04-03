@@ -19,15 +19,15 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 <img src="../public/.gitbook/assets/price0401.png" alt="">
 
-#### 【终身版 + 直播课】介绍
+#### 【终身版 + 精品课】介绍
 
-现在购买【终身版+直播课】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
+现在购买【终身版+精品课】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
 
 **课程内容大纲**：
 
 <img src="../public/.gitbook/assets/xzwk5.png" alt="">
 
-购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
+购买 [【终身版 + 精品课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
 <div align="center">
   <img src="../public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375">
@@ -39,5 +39,5 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 <div align="center">
   <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
-  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+  <p align="center" style="font-size:12px; margin-top:0;" >芦笋用户交流群</p>
 </div>

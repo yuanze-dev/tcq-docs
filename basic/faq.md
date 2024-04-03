@@ -33,5 +33,5 @@ description: 这里记录了芦笋提词器的常见FAQ
 
 <div align="center">
   <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
-  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+  <p align="center" style="font-size:12px; margin-top:0;" >芦笋用户交流群</p>
 </div>

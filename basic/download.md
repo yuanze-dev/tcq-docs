@@ -52,5 +52,5 @@ macOs 系统安装：双击打开安装包，拖拽到 Application 文件夹即�
 
 <div align="center">
   <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
-  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+  <p align="center" style="font-size:12px; margin-top:0;" >芦笋用户交流群</p>
 </div>

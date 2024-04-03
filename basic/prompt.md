@@ -47,5 +47,5 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 
 <div align="center">
   <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
-  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
+  <p align="center" style="font-size:12px; margin-top:0;" >芦笋用户交流群</p>
 </div>
