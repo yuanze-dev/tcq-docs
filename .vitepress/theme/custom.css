@@ -4,17 +4,19 @@
   --vp-c-brand-2: #2F8F00;
 }
 
+/* 侧边栏目录 */
+section > div.items {
+  text-indent: 1em;
+}
+
 section > div.item > h2 {
   font-size: 1rem;
 }
-section > div.items a p{
-  text-indent: 0.8em;
-}
 
+/* 表格 */
 .vp-doc table > tbody > tr > td{
   vertical-align: top
 }
-
 
 /* 图片点击放大优先级调整 */
 .medium-zoom-image {
@@ -27,20 +29,9 @@ section > div.items a p{
   border-radius: 1rem;
 }
 
-.VPSidebarItem.level-1 .items {
-  padding-left: 0;
-}
-
-#VPSidebarNav section section h3{
-  margin-left: 12px;
-}
-
-#VPSidebarNav section section div.items{
-  padding-left: 1em;
-}
-
+/* 联系我们 */
 #VPSidebarNav > div:nth-child(5) > section > div > div > div > a > p {
   color: #3c3c43;
-  margin-left: -12px;
+  margin-left: -1em;
   font-weight: 700;
 }
