@@ -14,6 +14,8 @@ next:
 
 芦笋提词器是一款支持智能跟读、隐形提词的应用，从此告别忘词，一镜到底。利用先进的语音识别功能，芦笋提词器的文本可以根据用户语速快慢，变换提词器滚动速度，完美贴合用户进度。不论直播 or 录屏，芦笋提词器应用都会自动穿透窗口，直播或录屏画面不会显示这款提词器，只有你自己能看到。轻松实现隐形提词。
 
+<iframe src="https://lusun.com/embed/?id=rB3eugLAAHX" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ### 使用场景
 
 > 如果你需要录课，直播、录制口播、会议演讲等，那芦笋提词器可以让你的表现更出色～

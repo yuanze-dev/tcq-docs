@@ -11,7 +11,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 ## 会员功能有哪些
 
-<table><thead><tr><th width="163"></th><th width="143">免费版</th><th width="130">月会员</th><th width="137">年会员</th><th>终身版</th></tr></thead><tbody><tr><td>词条个数</td><td>3个</td><td>不限</td><td>不限</td><td>不限</td></tr><tr><td>匀速提词</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>智能跟读</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>富文本编辑</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>AI提词灵感</td><td>❌</td><td>100次</td><td>1500次</td><td>2500次</td></tr><tr><td>透明度调节</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>多词条展示</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>提词备注</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>多设备同步</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>遥控器赠送</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr></tbody></table>
+<table><thead><tr><th width="163"></th><th width="143">免费版</th><th width="130">月会员</th><th width="137">年会员</th><th>终身版</th></tr></thead><tbody><tr><td>词条个数</td><td>3个</td><td>不限</td><td>不限</td><td>不限</td></tr><tr><td>登录设备数</td><td>1台</td><td>1台</td><td>1台</td><td>🌟3台</td></tr><tr><td>匀速提词</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>智能跟读</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>富文本编辑</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>AI提词灵感</td><td>❌</td><td>100次</td><td>1500次</td><td>2500次</td></tr><tr><td>透明度调节</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>多词条展示</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>提词备注</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>多设备同步</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>遥控器赠送</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr></tbody></table>
 
 ## 如何购买
 
