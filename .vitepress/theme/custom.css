@@ -14,3 +14,33 @@ section > div.items a p{
 .vp-doc table > tbody > tr > td{
   vertical-align: top
 }
+
+
+/* 图片点击放大优先级调整 */
+.medium-zoom-image {
+  z-index: 49 !important;
+}
+
+/* 文章图片圆角 */
+#VPContent img {
+  align-self: center;
+  border-radius: 1rem;
+}
+
+.VPSidebarItem.level-1 .items {
+  padding-left: 0;
+}
+
+#VPSidebarNav section section h3{
+  margin-left: 12px;
+}
+
+#VPSidebarNav section section div.items{
+  padding-left: 1em;
+}
+
+#VPSidebarNav > div:nth-child(5) > section > div > div > div > a > p {
+  color: #3c3c43;
+  margin-left: -12px;
+  font-weight: 700;
+}

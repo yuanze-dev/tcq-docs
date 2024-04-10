@@ -28,6 +28,43 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    nav: [
+      { text: "芦笋录屏", link: "https://lusun.com" },
+      { text: "关于我们", link: "https://lusun.com/about" },
+    ],
+    sidebar: [
+      {
+        text: "基础教程",
+        collapsed: false,
+        items: [
+          { text: "📥 下载安装", link: "/basic/download" },
+          { text: "📝 台词创建", link: "/basic/create" },
+          { text: "🎬 开启提词", link: "/basic/prompt" },
+          { text: "⚙️ 提词设置", link: "/basic/setting" },
+          { text: "🌟 会员特权", link: "/basic/vip" },
+          { text: "❓ 常见问题", link: "/basic/faq" },
+          { text: "🗳️ 申请发票", link: "/basic/invoice" },
+        ],
+      },
+      {
+        text: "进阶教程",
+        collapsed: false,
+        items: [
+          {
+            text: "🥳 免费领会员",
+            link: "/advanced/accessvip",
+          },
+          {
+            text: "⌨️ 提词遥控器",
+            link: "/advanced/remote",
+          },
+          {
+            text: "🫡 终身版+OBS精品课",
+            link: "/advanced/obslesson",
+          },
+        ],
+      },
+    ],
     search: {
       provider: "local",
       options: {
@@ -96,42 +133,5 @@ export default defineConfig({
     darkModeSwitchLabel: "切换主题",
     lightModeSwitchTitle: "切换到浅色模式",
     darkModeSwitchTitle: "切换到深色模式",
-    nav: [
-      { text: "芦笋录屏", link: "https://lusun.com" },
-      { text: "关于我们", link: "https://lusun.com/about" },
-    ],
-    sidebar: [
-      {
-        text: "基础教程",
-        collapsed: false,
-        items: [
-          { text: "📥 下载安装", link: "/basic/download" },
-          { text: "📝 台词创建", link: "/basic/create" },
-          { text: "🎬 开启提词", link: "/basic/prompt" },
-          { text: "⚙️ 提词设置", link: "/basic/setting" },
-          { text: "🌟 会员特权", link: "/basic/vip" },
-          { text: "❓ 常见问题", link: "/basic/faq" },
-          { text: "🗳️ 申请发票", link: "/basic/invoice" },
-        ],
-      },
-      {
-        text: "进阶教程",
-        collapsed: false,
-        items: [
-          {
-            text: "🥳 免费领会员",
-            link: "/advanced/accessvip",
-          },
-          {
-            text: "⌨️ 提词遥控器",
-            link: "/advanced/remote",
-          },
-          {
-            text: "🫡 终身版+OBS精品课",
-            link: "/advanced/obslesson",
-          },
-        ],
-      },
-    ],
   },
 });
