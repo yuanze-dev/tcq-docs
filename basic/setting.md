@@ -23,7 +23,7 @@ description: 这里介绍了如何给提词器设置背景透明度，速度快�
 **如果你需要循环播放、增加提词参考线、设置提词窗口镜像、设置提词窗口隐形等，可以按照以下动图教程方式进行个性化设置。**
 
 <div align="center">
-  <img src="../.gitbook/assets/提词器外面的设置功能.gif" alt="" width="198">
+  <img src="../public/.gitbook/assets/提词器外面的设置功能.gif" alt="" width="198">
   <p align="center" style="font-size:12px; margin-top:0;" >全局设置</p>
 </div>
 
