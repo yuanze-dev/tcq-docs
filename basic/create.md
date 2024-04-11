@@ -47,8 +47,5 @@ description: 这里介绍了如何在芦笋提词器创建文稿
 
 欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
 
-<div align="center">
-  <img src="../public/.gitbook/assets/quncode.png" alt="" width="198">
-    <p align="center" style="font-size:12px; margin-top:0;" >芦笋用户交流群</p>
-</div>
-
+<ImgCenter><img src="../public/.gitbook/assets/quncode.png" alt="" width="200"></ImgCenter>
+<ImgDesc>芦笋用户交流群</ImgDesc>

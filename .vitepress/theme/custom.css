@@ -25,13 +25,12 @@ section > div.item > h2 {
 
 /* 文章图片圆角 */
 #VPContent img {
-  align-self: center;
   border-radius: 1rem;
 }
 
 /* 联系我们 */
 #VPSidebarNav > div:nth-child(5) > section > div > div > div > a > p {
-  color: #3c3c43;
+  color: var(--vp-c-text-1);
   margin-left: -1em;
   font-weight: 700;
 }

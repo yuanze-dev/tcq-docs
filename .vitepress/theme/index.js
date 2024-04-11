@@ -1,4 +1,5 @@
 // .vitepress/theme/index.js
+import ImgCenter from "../components/ImgCenter.vue";
 import ImgDesc from "../components/ImgDesc.vue";
 import Link from "../components/Link.vue";
 import DefaultTheme from "vitepress/theme";
@@ -12,6 +13,7 @@ export default {
   ...DefaultTheme,
   extends: DefaultTheme,
   enhanceApp({ app }) {
+    app.component("ImgCenter", ImgCenter);
     app.component("ImgDesc", ImgDesc);
     app.component("Link", Link);
   },
