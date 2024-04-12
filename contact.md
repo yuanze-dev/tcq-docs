@@ -7,11 +7,11 @@
 * 你可以通过发送邮件到 [lusun@yuanze.com](mailto:lusun@yuanze.com) 反馈
 * 你也可以关注 「芦笋」 微信公众号 或 **微信用户交流群**
 
-<img src="../public/.gitbook/assets/tcq_wechat.png" alt="">
+<img src="./public/.gitbook/assets/tcq_wechat.png" alt="">
 
 ## 😁了解官方
 
 目前芦笋也会在三方媒体平台分享一些实用教程等内容，如果你也感兴趣可以关注
 
-<img src="../public/.gitbook/assets/douyinerweima.png" alt="">
+<img src="./public/.gitbook/assets/douyinerweima.png" alt="">
 <ImgDesc>芦笋录屏/芦笋提词器抖音二维码</ImgDesc>
