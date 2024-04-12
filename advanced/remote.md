@@ -8,7 +8,7 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 让直播、录课更轻松，此外，支持控制 **OBS** 和 **直播伴侣**等直录播软件。  
 
-> 芦笋遥控器 [单买￥99 ](https://docs.lusun.com/tcq/advanced/remote.html#如何获取遥控器) |  购买「芦笋提词器终身版」 限时赠送遥控器 ：[购买链接直达](https://tcq.lusun.com/pricing/)
+> 芦笋遥控器 [单买￥99 ](https://docs.lusun.com/tcq/advanced/remote.html#二、如何获取遥控器) |  购买「芦笋提词器终身版」 限时赠送遥控器 ：[购买链接直达](https://tcq.lusun.com/pricing/)
 >
 > **购买 「芦笋提词器终身版」 后，扫码联系客服领取 👇🏻**
 
