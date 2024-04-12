@@ -6,15 +6,25 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 **芦笋遥控器**是一款支持 「**提词器遥控**」 + 「**PPT 翻页**」 + 「**直录播遥控**」 的三合一蓝牙遥控器
 
-让直播、录课更轻松，此外，支持控制 **OBS** 和 **直播伴侣**等直录播软件。
+让直播、录课更轻松，此外，支持控制 **OBS** 和 **直播伴侣**等直录播软件。  
+
+> 芦笋遥控器 [单买￥99 ](https://docs.lusun.com/tcq/advanced/remote.html#如何获取遥控器) |  购买「芦笋提词器终身版」 限时赠送遥控器 ：[购买链接直达](https://tcq.lusun.com/pricing/)
+>
+> **购买 「芦笋提词器终身版」 后，扫码联系客服领取 👇🏻**
+
+<div align="left">
+
+<figure><img src="../public/.gitbook/assets/遥控器企微.png" alt="" width="198"><figcaption><p>凭订单截图，联系客服领取</p></figcaption></figure>
+
+</div>
 
 ## 一.遥控器介绍
 
 ### 功能演示视频
 
-<!-- <video controls>
+<video controls>
   <source src="../public/.gitbook/assets/ykqdemo1.mp4" type="video/mp4" />
-</video> -->
+</video>
 
 芦笋遥控器是一款支持遥控提词、PPT 翻页、以及遥控直播录播的三合一蓝牙遥控器。
 
@@ -45,7 +55,7 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
   <source src="../public/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" />
 </video>
 
-## 二.如何购买
+## 二、如何获取遥控器
 
 > 现在如果你购买芦笋提词器终身版，即可赠送一个价值 ¥99 的芦笋遥控器
 
