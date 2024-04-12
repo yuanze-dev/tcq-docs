@@ -64,6 +64,7 @@ export default defineConfig({
           },
         ],
       },
+      { text: "联系我们", link: "/contact" },
     ],
     search: {
       provider: "local",
