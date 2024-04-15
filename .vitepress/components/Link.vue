@@ -2,11 +2,11 @@
 const props = defineProps({
   title: {
     type: String,
-    default: '这里是站点title'
+    default: '这里是站点 title'
   },
   logo: {
     type: String,
-    default: '这里是站点logo'
+    default: '这里是站点 logo'
   },
   link: {
     type: String,

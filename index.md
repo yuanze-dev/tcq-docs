@@ -1,12 +1,8 @@
 ---
 description: 这里介绍了芦笋提词器是什么，使用场景以及功能演示
-next:
-  text: '📥 下载安装'
-  link: '/basic/download'
 ---
 
 # 🥳欢迎来到芦笋提词器
-
 
 快捷导航：📥[下载与安装](basic/download.md)｜[📝台词创建](basic/create.md)｜[🎬开启提词](basic/prompt.md)｜[⚙️提词设置](basic/setting.md)｜[🌟会员特权](basic/vip.md)｜[❓常见问题](basic/faq.md)
 
@@ -16,7 +12,7 @@ next:
 
 <iframe src="https://lusun.com/embed/?id=rB3eugLAAHX" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-### 使用场景
+### 使用场景 {#scene}
 
 > 如果你需要录课，直播、录制口播、会议演讲等，那芦笋提词器可以让你的表现更出色～
 
@@ -24,36 +20,18 @@ next:
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 网课录制、在线网课，通过芦笋提词器的文本设置，无需担心漏掉知识点。让网络课程更轻松更高效。 | 告别开播前背台词、多手机提词的烦恼，芦笋提词器支持边播边看台词，并能实现提词隐形功能，只有自己能看到提词面板，告别忘词，一镜到底。 | 芦笋提词器，帮助您有效地提高录制效率，芦笋提词器的文本可以根据语速快慢，变换提词器滚动速度，满足各种场景下的拍摄需求。 | 芦笋提词器可进行个性化自定义设置，如字号大小、背景颜色、滚动速度、还有 AI 智能跟读功能，让您的演讲更顺畅。 |
 
-
-
-### 芦笋提词器演示
+### 芦笋提词器演示 {#demo}
 
 当前电脑端和手机端均已支持。你可以按需下载 Windows、Mac、Android、iOS 多个版本。[下载链接](https://tcq.lusun.com/download/?)
 
-#### 电脑端演示
+#### 电脑端演示 {#pc-demo}
 
-<div align="center" style="margin:20px 0;">
-  <video controls width="80%">
-    <source src="./public/.gitbook/assets/teleprompter.mp4" type="video/mp4" />
-  </video>
-</div>
+<ImgCenter><video controls><source src="./public/.gitbook/assets/teleprompter.mp4" type="video/mp4" /></video></ImgCenter>
 
+#### 手机端演示 {#phone-demo}
 
-#### 手机端演示
+<ImgCenter><video controls width="50%"><source src="./public/.gitbook/assets/android.mp4" type="video/mp4" /></video></ImgCenter>
 
-<div align="center">
-  <video controls width="50%">
-    <source src="./public/.gitbook/assets/android.mp4" type="video/mp4" />
-  </video>
-</div>
+### 用户交流群 {#group}
 
-
-### 用户交流群
-
-欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
-
-<div align="center">
-  <img src="./public/.gitbook/assets/quncode.png" alt="" width="198">
-  <p style="margin:0; font-size:15px">芦笋用户交流群</p>
-</div>
-
+<UserGroup/>

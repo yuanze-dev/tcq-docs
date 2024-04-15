@@ -13,24 +13,43 @@ section > div.item > h2 {
   font-size: 1rem;
 }
 
+.vp-doc h2{
+  margin-top: 1em;
+}
+
+.vp-doc h3{
+  margin: 1em 0;
+}
+
+.vp-doc h4{
+  margin: 1em 0;
+}
+
 /* 表格 */
 .vp-doc table > tbody > tr > td{
   vertical-align: top
 }
 
 /* 图片点击放大优先级调整 */
-.medium-zoom-image {
-  z-index: 49 !important;
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image--opened {
+  z-index: 31;
 }
 
 /* 文章图片圆角 */
 #VPContent img {
-  border-radius: 1rem;
+  border-radius: 8px;
 }
 
 /* 联系我们 */
-#VPSidebarNav > div:nth-child(5) > section > div > div > div > a > p {
+#VPSidebarNav > div:nth-child(4) > section > div > div > div > a > p {
   color: var(--vp-c-text-1);
   margin-left: -1em;
   font-weight: 700;
+}
+#VPSidebarNav > div:nth-child(4) > section > div > div > div > a > p:hover{
+  color: var(--vp-c-brand-1);
 }
