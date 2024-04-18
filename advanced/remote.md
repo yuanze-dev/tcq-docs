@@ -38,7 +38,7 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 ### 结合直播伴侣使用 {#bl}
 
-<ImgCenter><video><source src="../public/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="../public/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" /></video></ImgCenter>
 
 ## 二、如何获取遥控器 {#how}
 
