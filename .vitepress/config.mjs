@@ -8,7 +8,7 @@ export default defineConfig({
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
   head: [
-    ["link", { rel: "icon", href: "/tcq/favicon.ico" }],
+    ["link", { rel: "icon", href: "/tcq/logo.png" }],
     [
       "script",
       {},
@@ -28,6 +28,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    logo: "/logo.png",
     nav: [
       { text: "芦笋录屏", link: "https://lusun.com" },
       { text: "关于我们", link: "https://lusun.com/about" },

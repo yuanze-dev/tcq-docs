@@ -79,7 +79,7 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 
 ## 四、遥控器按键说明 {#explain}
 
-<ImgCenter><img src="../public/.gitbook/assets/ykqanjian.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/ykqanjian.png" alt="" width="50%"></ImgCenter>
 
 ## 五、常见问题 {#faq}
 
@@ -103,12 +103,11 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 * 若无蓝牙功能建议购买「蓝牙适配器」购买推荐
 
 1. 拼多多购买👉🏻 [拼多多商城](https://mobile.yangkeduo.com/goods1.html?refer\_share\_id=Wu51UnPZYQKVZ5mrwPYqbVonUWv2fxuJ\&refer\_share\_channel=copy\_link&\_oak\_share\_detail\_id=3967211238\&pxq\_secret\_key=643ZNGHJQ6FP4YXPWOPYAAKUHPBNIJO6SH6RDU2MIEQCPYQ6L4ZQ&\_wvx=10&\_oak\_share\_time=1706074897&\_wv=41729\&share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA&\_x\_query=%E8%93%9D%E7%89%99%E9%80%82%E9%85%8D%E5%99%A8\&page\_from=23\&refer\_share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA\&goods\_id=513430445715&\_oak\_share\_snapshot\_num=503&\_x\_org=2\&ref=help.lusun.com)
-2. 淘宝购买👉🏻 https://m.tb.cn/h.5JlCckAdbgbQTBe?tk=Tx0BWR6x1BX[\
-   ](https://help.lusun.com/gao-xiao-ti-ci-lu-sun-ti-ci-qi-jie-jue-fang-an/)
+<ImgCenter><img src="../public/.gitbook/assets/taobaopt.png" alt="" width="50%"></ImgCenter>
 
-<ImgCenter><img src="../public/.gitbook/assets/pddpt.png" alt=""></ImgCenter>
+2. 淘宝购买👉🏻 [淘宝商城](https://m.tb.cn/h.5JlCckAdbgbQTBe?tk=Tx0BWR6x1BX)
 
-<ImgCenter><img src="../public/.gitbook/assets/taobaopt.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/pddpt.png" alt="" width="50%"></ImgCenter>
 
 **用户交流群**
 

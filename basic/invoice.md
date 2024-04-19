@@ -6,8 +6,8 @@
 
 开票项目为：技术服务费
 
-::: warning
-请注意：发票信息一旦提交不支持修改，请在正式提交前，再次确认开票所需信息的准确性
+::: warning  注意
+发票信息一旦提交不支持修改，请在正式提交前，再次确认开票所需信息的准确性
 :::
 
 <ImgCenter><img src="../public/.gitbook/assets/invoice.png" alt="" width="375"></ImgCenter>

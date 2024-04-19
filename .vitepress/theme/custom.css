@@ -4,33 +4,30 @@
   --vp-c-brand-2: #2F8F00;
 }
 
-/* 侧边栏目录 */
-section > div.items {
-  text-indent: 1em;
-}
+/* 文章样式调整 */
 
-section > div.item > h2 {
-  font-size: 1rem;
-}
-
-.vp-doc h2{
-  margin-top: 1em;
-}
-
-.vp-doc h3{
+/* 标题上下边距 */
+.vp-doc h2, .vp-doc h3, .vp-doc h4 {
   margin: 1em 0;
 }
 
-.vp-doc h4{
-  margin: 1em 0;
-}
-
-/* 表格 */
+/* 表格顶部对齐 */
 .vp-doc table > tbody > tr > td{
   vertical-align: top
 }
 
-/* 图片点击放大优先级调整 */
+/* 内容居中 */
+.vp-doc th, .vp-doc tr, .vp-doc td {
+  text-align: center;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+
+/* 图片点击放大 */
 .medium-zoom-overlay {
   z-index: 30;
 }
@@ -44,12 +41,26 @@ section > div.item > h2 {
   border-radius: 8px;
 }
 
+/* 左侧目录样式调整 */
+
+/* 缩进 */
+#VPSidebarNav section div.items {
+  text-indent: 1em;
+}
+
+/* 目录样式 */
+#VPSidebarNav section.VPSidebarItem div.items{
+  border-left: none;
+}
+
+/* 目录激活样式 */
+#VPSidebarNav div.VPSidebarItem.is-active div{
+  background-color: transparent;
+}
+
 /* 联系我们 */
 #VPSidebarNav > div:nth-child(4) > section > div > div > div > a > p {
   color: var(--vp-c-text-1);
   margin-left: -1em;
   font-weight: 700;
-}
-#VPSidebarNav > div:nth-child(4) > section > div > div > div > a > p:hover{
-  color: var(--vp-c-brand-1);
 }
