@@ -10,7 +10,7 @@ description: 这里介绍了芦笋提词器如何下载和安装
 
 点击以下链接，你将会打开芦笋提词器官网下载页，可根据您的设备按需下载。
 
-<Link title="芦笋提词器官网下载页" logo="https://lusun.com/logo.png" url="https://tcq.lusun.com/download/"></Link>
+<Link title="芦笋提词器官网下载页" logo="https://lusun.com/logo.png" link="https://tcq.lusun.com/download/?ref=docs_tcq"></Link>
 
 **注意事项**
 

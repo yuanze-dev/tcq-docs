@@ -8,7 +8,7 @@ const props = defineProps({
     type: String,
     default: '这里是站点 logo'
   },
-  url: {
+  link: {
     type: String,
     default: 'https://lusun.com'
   }
