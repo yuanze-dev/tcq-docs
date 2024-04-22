@@ -8,7 +8,7 @@ const props = defineProps({
     type: String,
     default: '这里是站点 logo'
   },
-  link: {
+  url: {
     type: String,
     default: 'https://lusun.com'
   }
@@ -17,7 +17,7 @@ const props = defineProps({
 
 <template>
   <div class="main-container">
-    <a :href="props.link">
+    <a :href="props.url">
       <slot>
         <div class="link-style">
           <img width="50px" :src="props.logo" alt="">
