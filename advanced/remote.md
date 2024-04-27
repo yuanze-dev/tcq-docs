@@ -2,10 +2,11 @@
 description: 关于如何使用芦笋遥控器，看这篇就够了
 ---
 
-> 芦笋遥控器单买￥99 |  购买「芦笋提词器终身版」限时赠送遥控器：[购买链接直达](https://tcq.lusun.com/pricing/)
+> **购买「芦笋提词器终身版」后，点击下方链接领取 👇🏻**
 
-<ImgCenter><img src="../public/.gitbook/assets/遥控器企微.png" alt="" width="198"></ImgCenter>
-<ImgDesc>👆🏻凭支付截图，联系客服免费领取</ImgDesc>
+https://sourl.cn/fvTwCz
+
+购买提词器终身版赠送的遥控器，可以填写这个表单领取哈，我们将在收到信息的 3 个工作日之内安排寄出
 
 # ⌨️ 提词遥控器
 
