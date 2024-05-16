@@ -8,7 +8,7 @@ name: Deploy
 
 jobs:
   # https://github.com/pnpm/action-setup/tree/v4/?tab=readme-ov-file#use-cache-to-reduce-installation-time
-  main-enviroment-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -67,4 +67,4 @@ jobs:
           lusun-scripts feishu \
             --id $FEISHU_ID \
             --secret $FEISHU_SECRET \
-            --message "{\"msg_type\": \"text\", \"content\": {\"text\": \"芦笋录屏帮助中心发布完成～ \n访问地址 https://docs.lusun.com/lp \n执行人 ${GITHUB_ACTOR}\"}}"
+            --message "{\"msg_type\": \"text\", \"content\": {\"text\": \"芦笋提词器帮助中心发布完成～ \n访问地址 https://docs.lusun.com/tcq \n执行人 ${GITHUB_ACTOR}\"}}"
