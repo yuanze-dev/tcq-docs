@@ -1,52 +1,70 @@
+# https://docs.github.com/en/actions
 on:
   workflow_dispatch:
   push:
-    branches: [ main ] # 当push代码到main分支时会自动触发action
-    
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest        # GitHub分配的运行平台，无需更改
-    steps:  
-      - uses: actions/checkout@v2     # 使用action库 actions/checkout获取源码，执行你的操作
-        with:
-          persist-credentials: false
-          ref: main
-          submodules: true
-      # 设置npm配置
-      - name: Set npm configuration
-        run: |
-          npm config set registry https://registry.npmjs.org/
-      
-      # 安装依赖
-      - name: Install Dependencies
-        run: npm i
-        
-      # 打包
-      - name: Build
-        run: npm run build
+    branches: [main]
 
-      # 创建dist目录并复制.vitepress/dist内容到dist目录下
-      - name: Copy .vitepress/dist to dist
-        run: |
-          mkdir -p dist
-          cp -r .vitepress/dist/* dist/
-        
-      # 安装lusun-scripts
+name: Deploy
+
+jobs:
+  # https://github.com/pnpm/action-setup/tree/v4/?tab=readme-ov-file#use-cache-to-reduce-installation-time
+  main-enviroment-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+          run_install: false
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+      - name: Setup pnpm cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build project
+        run: pnpm build
+
       - name: Install lusun-scripts
         run: npm i -g lusun-scripts
-        
-      # 使用lusun-scripts部署到阿里云OSS
+
       - name: Deploy to OSS
         env:
           ACCESS_KEY_ID: ${{ secrets.ACCESSKEYID }}
           ACCESS_KEY_SECRET: ${{ secrets.ACCESSKEYSECRET }}
-          FEISHU_ID: ${{ secrets.FEISHU_ID }}
-          FEISHU_SERCET: ${{ secrets.FEISHU_SERCET }}
-          
         run: |
           lusun-scripts deploy \
             --accessKeyId $ACCESS_KEY_ID \
             --accessKeySecret $ACCESS_KEY_SECRET \
+            --target .vitepress/dist \
             --directoryPath tcq \
             --bucket docs-lusun-web \
             --endpoint oss-cn-beijing.aliyuncs.com
+
+      - name: Feishu Notify
+        env:
+          FEISHU_ID: ${{ secrets.FEISHU_ID }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+        run: |
+          lusun-scripts feishu \
+            --id $FEISHU_ID \
+            --secret $FEISHU_SECRET \
+            --message "{\"msg_type\": \"text\", \"content\": {\"text\": \"芦笋录屏帮助中心发布完成～ \n访问地址 https://docs.lusun.com/lp \n执行人 ${GITHUB_ACTOR}\"}}"
