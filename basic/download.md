@@ -12,12 +12,14 @@ description: 这里介绍了芦笋提词器如何下载和安装
 
 <Link title="芦笋提词器官网下载页" logo="https://lusun.com/logo.png" url="https://tcq.lusun.com/download/?ref=docs_tcq"></Link>
 
+<ImgCenter><img src="../public/.gitbook/assets/image (2) (1).png" alt=""></ImgCenter>
+
 **注意事项**
 
 - Windows 系统下载注意事项：芦笋提词器当前仅支持 Win10 及以上系统
 - macOS 系统下载注意事项：请确认你的设备是 M 系列芯片还是 Intel 芯片。如何查看请参考下图
 
-<ImgCenter><img src="../public/.gitbook/assets/image (2).png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/image (3) (1).png" alt=""></ImgCenter>
 
 ## 第二步：安装芦笋提词器 {#install}
 

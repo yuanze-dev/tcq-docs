@@ -4,11 +4,11 @@ on:
   push:
     branches: [main]
 
-name: Deploy
+name: publish
 
 jobs:
   # https://github.com/pnpm/action-setup/tree/v4/?tab=readme-ov-file#use-cache-to-reduce-installation-time
-  deploy:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
