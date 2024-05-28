@@ -21,6 +21,13 @@ description: 这里介绍了如何给提词器设置背景透明度，速度快�
 <ImgCenter><img src="../public/.gitbook/assets/提词器外面的设置功能.gif" alt=""  width="100%"></ImgCenter>
 <ImgDesc>全局设置</ImgDesc>
 
+### 快捷键设置 {#shortkey}
+
+芦笋提词器支持快捷键操作，并支持快捷键自定义。可通过快捷键实现暂停/播放、复位、快进、回退、关闭提词窗口等操作
+
+<ImgCenter><img src="../public/.gitbook/assets/shortcut-key.png" alt=""  width="100%"></ImgCenter>
+<ImgDesc>快捷键设置</ImgDesc>
+
 **用户交流群**
 
 <UserGroup/>
