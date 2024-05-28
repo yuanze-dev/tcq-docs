@@ -1,15 +1,11 @@
 <template>
-  <div class="imgLayout">
+  <div class="container">
     <slot></slot>
   </div>
 </template>
 
-<script setup>
-
-</script>
-
 <style scoped>
-.imgLayout {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;

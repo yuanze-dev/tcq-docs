@@ -44,7 +44,6 @@ const props = defineProps({
   transition: transform 0.3s;
 }
 
-
 .link-style {
   color: var(--text-color);
   display: flex;
