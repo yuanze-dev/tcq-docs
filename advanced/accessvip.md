@@ -19,7 +19,7 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 * 你将获得芦笋提词器 30 日高级会员兑换码
 * 你将获得满 300 减 30 权益
 
-<ImgCenter><img src="../public/.gitbook/assets/Tzhongcao.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/duozhongcao.png" alt="" width="375"></ImgCenter>
 <ImgDesc>芦笋提词器种草计划</ImgDesc>
 
 ### 如何使用兑换码？{#exchange}
