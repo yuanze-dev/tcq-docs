@@ -26,11 +26,12 @@ description: 这里介绍了芦笋提词器是什么，使用场景以及功能�
 
 #### 电脑端演示 {#pc-demo}
 
-<!-- <ImgCenter><video controls><source src="./public/.gitbook/assets/teleprompter.mp4" type="video/mp4" /></video></ImgCenter> -->
+<ImgCenter><video controls><source src="/assets/teleprompter.mp4" type="video/mp4" /></video></ImgCenter>
+
 
 #### 手机端演示 {#phone-demo}
 
-<!-- <ImgCenter><video controls width="50%"><source src=./public/.gitbook/assets/android.mp4" type="video/mp4" /></video></ImgCenter> -->
+<ImgCenter><video controls width="50%"><source src="/assets/android.mp4" type="video/mp4" /></video></ImgCenter>
 
 ### 用户交流群 {#group}
 

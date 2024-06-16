@@ -18,7 +18,7 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 
 选择「匀速模式」，点击播放按钮就<span style="color:green;">**开启匀速提词**</span>模式，可以通过左下方按钮进行滚动速度、字体大小、字体颜色等设置；可以通过右下方按钮进行词条切换，还可以通过上一条/下一条进行快速切换台词文本；这里需要和大家说一下**智能暂停是什么？**打开智能暂停按钮，当你开启提词后，在不朗读提词内容时，将会停止滚屏台词文本
 
-<ImgCenter><img src="/public/.gitbook/assets/yunsumoshi.gif" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/yunsumoshi.gif" alt=""></ImgCenter>
 
 ### 1.2 智能跟读模式 {#intelligent}
 
@@ -26,7 +26,7 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 
 进入「智能跟读模式」，根据你所读的内容调整提词进度，如果需要从第二段开始跟读，可以点击对应文字，出现“从此处开始朗读”提示，点击这部分就快速跳转至对应位置开始跟读
 
-<img src="/public/.gitbook/assets/airead.gif" alt="">
+<img src="/assets/airead.gif" alt="">
 
 ## 2. 隐形提词 {#invisible}
 
@@ -36,11 +36,11 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 隐形提词仅支持 Windows10 19041 以上版本的电脑系统
 :::
 
-<img src="/public/.gitbook/assets/yinxingtici.gif" alt="">
+<img src="/assets/yinxingtici.gif" alt="">
 
 如何开启隐形提词呢？你需要打开提词器的「设置」页面，找到「提词器窗口隐形」点击开关即可。
 
-<img src="/public/.gitbook/assets/yxtici.gif" alt="">
+<img src="/assets/yxtici.gif" alt="">
 
 **用户交流群**
 
