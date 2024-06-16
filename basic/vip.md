@@ -15,7 +15,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 :::
 
 
-如果你想了解更多芦笋提词器，请访问：[欢迎来到芦笋提词器](../)
+如果你想了解更多芦笋提词器，请访问：[欢迎来到芦笋提词器](/)
 
 ## 会员功能有哪些 {#vip}
 
@@ -25,7 +25,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 你可以通过芦笋提词器的客户端直接升级，也可以通过访问 [https://tcq.lusun.com/pricing/](https://tcq.lusun.com/pricing/) 付费升级
 
-<ImgCenter><img src="../.gitbook/assets/price0401.png" alt=""></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/price0401.png" alt=""></ImgCenter>
 
 #### 【终身版 + 精品课】介绍 {#introduce}
 
@@ -33,11 +33,11 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 **课程内容大纲**：
 
-<ImgCenter><img src="../.gitbook/assets/xzwk5.png" alt=""></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/xzwk5.png" alt=""></ImgCenter>
 
 购买 [【终身版 + 精品课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
-<ImgCenter><img src="../.gitbook/assets/xiaozhu.jpeg" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/xiaozhu.jpeg" alt="" width="375"></ImgCenter>
 
 **用户交流群**
 

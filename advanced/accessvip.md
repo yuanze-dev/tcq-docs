@@ -4,7 +4,7 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 
 # 🥳 免费领会员
 
-感谢你选择使用芦笋提词器，我们为大家开通了免费领取会员的通道。如果你刚了解芦笋提词器，推荐阅读 [芦笋提词器欢迎你](../) 了解更多～
+感谢你选择使用芦笋提词器，我们为大家开通了免费领取会员的通道。如果你刚了解芦笋提词器，推荐阅读 [芦笋提词器欢迎你](/) 了解更多～
 
 ## 邀请好友得会员 {#invite}
 
@@ -20,17 +20,17 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 * 你将获得满 300 减 30 权益
 > 不知道文案和配图怎么准备？点击[这里](materials.md)获取素材
 
-<ImgCenter><img src="../.gitbook/assets/duozhongcao.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/duozhongcao.png" alt="" width="375"></ImgCenter>
 <ImgDesc>芦笋提词器种草计划</ImgDesc>
 
 ### 如何使用兑换码？{#exchange}
 
 第一步：打开「芦笋提词器」客户端，点击左下角“兑换码”按钮
 
-<ImgCenter><img src="../.gitbook/assets/duihuama1.png" alt=""></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/duihuama1.png" alt=""></ImgCenter>
 <ImgDesc>电脑端兑换码入口</ImgDesc>
 
 第二步：在弹出的输入框中，输入兑换口令，点击确认，即可领取
 
-<ImgCenter><img src="../.gitbook/assets/duihuanma2.png" alt=""></ImgCenter>
+<ImgCenter><img src="/.gitbook/assets/duihuanma2.png" alt=""></ImgCenter>
 <ImgDesc>输入兑换码</ImgDesc>
