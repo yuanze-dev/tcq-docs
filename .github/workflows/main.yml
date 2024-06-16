@@ -18,7 +18,9 @@ jobs:
           node-version: 20
 
       - name: Pnpm install
-        uses: yuanze-dev/pnpm-install-with-cache@v1
+        uses: yuanze-dev/pnpm-install-with-cache@v2
+        with:
+          pnpm-version: 9
 
       - name: Build project
         run: pnpm build

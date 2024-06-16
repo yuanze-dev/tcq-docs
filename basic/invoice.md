@@ -10,6 +10,6 @@
 发票信息一旦提交不支持修改，请在正式提交前，再次确认开票所需信息的准确性
 :::
 
-<ImgCenter><img src="../public/.gitbook/assets/invoice.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="../.gitbook/assets/invoice.png" alt="" width="375"></ImgCenter>
 
 如有其他需要咨询的问题，欢迎联系我们。
