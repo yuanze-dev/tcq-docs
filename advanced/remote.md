@@ -18,7 +18,7 @@ https://sourl.cn/fvTwCz
 
 ### 功能演示视频 {#demo}
 
-<ImgCenter><video controls width="50%"><source src="/.gitbook/assets/ykqdemo.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls width="50%"><source src="../public/.gitbook/assets/ykqdemo.mp4" type="video/mp4" /></video></ImgCenter>
 
 芦笋遥控器是一款支持遥控提词、PPT 翻页、以及遥控直播录播的三合一蓝牙遥控器。
 
@@ -30,16 +30,16 @@ https://sourl.cn/fvTwCz
 
 ### 操作教程 {#tutorial}
 
-<ImgCenter><video controls><source src="/.gitbook/assets/ykqshiyong.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="../public/.gitbook/assets/ykqshiyong.mp4" type="video/mp4" /></video></ImgCenter>
 
 ### 结合 OBS 使用 {#obs}
 
 
-<ImgCenter><video controls><source src="/.gitbook/assets/obs.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="../public/.gitbook/assets/obs.mp4" type="video/mp4" /></video></ImgCenter>
 
 ### 结合直播伴侣使用 {#bl}
 
-<ImgCenter><video controls><source src="/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="../public/.gitbook/assets/zhibobanlv.mp4" type="video/mp4" /></video></ImgCenter>
 
 ## 二、如何获取遥控器 {#how}
 

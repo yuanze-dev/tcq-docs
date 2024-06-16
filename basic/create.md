@@ -14,7 +14,7 @@ description: 这里介绍了如何在芦笋提词器创建文稿
 芦笋提词器具备 AI 能力，【AI 提词灵感】功能可以根据你的需求生成对应的提词内容，一键写稿；帮助你进行续写、改写，还可以帮助你润色已有的稿件，如果对生成的稿件不满意你还可以重新生成知道你满意为止
 :::
 
-<ImgCenter><video controls><source src="/.gitbook/assets/ai.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="../public/.gitbook/assets/ai.mp4" type="video/mp4" /></video></ImgCenter>
 
 ## 2.编辑词条 {#edit}
 
