@@ -26,7 +26,7 @@ https://sourl.cn/fvTwCz
 
 同时，芦笋遥控器也可适配第三方直播录屏软件，如 OBS 和抖音直播伴侣等。
 
-<ImgCenter><img width="80%" src="/.gitbook/assets/yaokongqizhichi.png" alt=""></ImgCenter>
+<ImgCenter><img width="80%" src="/public/.gitbook/assets/yaokongqizhichi.png" alt=""></ImgCenter>
 
 ### 操作教程 {#tutorial}
 
@@ -50,7 +50,7 @@ https://sourl.cn/fvTwCz
 
 芦笋遥控器单品购买如下：
 
-<ImgCenter><img src="/.gitbook/assets/yaokongqigoumai.jpeg" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/yaokongqigoumai.jpeg" alt="" width="375"></ImgCenter>
 
 ## 三、如何连接电脑 {#connect}
 
@@ -64,23 +64,23 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 
 3.点击“添加蓝牙或其他设备”
 
-<ImgCenter><img src="/.gitbook/assets/ykqthree.png" alt=""></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/ykqthree.png" alt=""></ImgCenter>
 
 4.点击“鼠标、键盘、手写板”一栏
 
-<ImgCenter><img src="/.gitbook/assets/ykqfour.png" alt=""></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/ykqfour.png" alt=""></ImgCenter>
 
 5.寻找 **lusun**，点击进行配对连接
 
-<ImgCenter><img src="/.gitbook/assets/ykqfive.png" alt=""></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/ykqfive.png" alt=""></ImgCenter>
 
 6.显示已完成，代表连接成功，就可以正常使用
 
-<ImgCenter><img src="/.gitbook/assets/ykqsix.png" alt=""></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/ykqsix.png" alt=""></ImgCenter>
 
 ## 四、遥控器按键说明 {#explain}
 
-<ImgCenter><img src="/.gitbook/assets/ykqanjian.png" alt="" width="50%"></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/ykqanjian.png" alt="" width="50%"></ImgCenter>
 
 ## 五、常见问题 {#faq}
 
@@ -115,8 +115,8 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 淘宝购买👉🏻 [淘宝商城](https://m.tb.cn/h.5JlCckAdbgbQTBe?tk=Tx0BWR6x1BX)
 
 <div style="display:flex;">
-<img src="/.gitbook/assets/pddpt.png" alt="" width="50%">
-<img src="/.gitbook/assets/taobaopt.png" alt="" width="50%">
+<img src="/public/.gitbook/assets/pddpt.png" alt="" width="50%">
+<img src="/public/.gitbook/assets/taobaopt.png" alt="" width="50%">
 </div>
 
 3、连另一台设备之后再想连之前那台连不上了

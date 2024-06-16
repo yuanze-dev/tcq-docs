@@ -15,15 +15,15 @@ description: 这篇文章介绍了芦笋提词器终身版+OBS 精品课的超�
 
 ### 课程内容大纲 {#outline}
 
-<ImgCenter><img src="/.gitbook/assets/xzwk5.png" alt=""></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/xzwk5.png" alt=""></ImgCenter>
 
 ### 课程海报介绍 {#lesson}
 
-<ImgCenter><img src="/.gitbook/assets/xiaozhu.jpeg" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/xiaozhu.jpeg" alt="" width="375"></ImgCenter>
 
 ### 如何学习课程 {#learn}
 
 购买 [【终身版 + 精品课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
-<ImgCenter><img src="/.gitbook/assets/xiaoxiao.jpeg" alt="" width="198"></ImgCenter>
+<ImgCenter><img src="/public/.gitbook/assets/xiaoxiao.jpeg" alt="" width="198"></ImgCenter>
 <ImgDesc>扫码获取</ImgDesc>
