@@ -40,7 +40,7 @@ export default defineConfig({
         items: [
           { text: "📥 下载安装", link: "/basic/download" },
           { text: "📝 台词创建", link: "/basic/create" },
-          { text: "🎬 开启提词", link: "/basic/prompt" },
+          { text: "🎬 开始提词", link: "/basic/prompt" },
           { text: "⚙️ 提词设置", link: "/basic/setting" },
           { text: "🌟 会员特权", link: "/basic/vip" },
           { text: "❓ 常见问题", link: "/basic/faq" },
@@ -60,7 +60,7 @@ export default defineConfig({
             link: "/advanced/remote",
           },
           {
-            text: "🫡 终身版+OBS精品课",
+            text: "🫡 五年会员+OBS精品课",
             link: "/advanced/obslesson",
           },
         ],
