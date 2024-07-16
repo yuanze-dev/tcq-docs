@@ -63,6 +63,10 @@ export default defineConfig({
             text: "🫡 五年会员+OBS精品课",
             link: "/advanced/obslesson",
           },
+          {
+            text: "🎩 终身版+官方系统课",
+            link: "/advanced/lusunlesson",
+          },
         ],
       },
       { text: "联系我们", link: "/contact" },

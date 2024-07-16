@@ -16,3 +16,9 @@
 ```html
 <Link title="芦笋录屏官网——新一代极简视频录制工具" logo="https://lusun.com/logo.png" url="https://lusun.com"></Link>
 ```
+
+## 如何运行  
+```
+pnpm i 
+pnpm dev
+```
