@@ -10,9 +10,10 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 
 了解芦笋提词器的入门教程，看完即可领取「**免费会员福利**」。你可以访问 [https://help.lusun.com/lstcqjc/](https://help.lusun.com/lstcqjc/) 领取新人专属 3 天会员试用
 
-## 邀请好友得会员 {#invite}
+[//]: # (## 邀请好友得会员 {#invite})
 
-参与芦笋提词器的邀请活动，你将获得对应的会员奖励。你可以访问 [https://tcq.lusun.com/invite](https://tcq.lusun.com/invite) 将生成自己的邀请链接/海报，Ta 人通过你的专属链接注册成功后，你将获得对应的会员奖励，同时 Ta 也将获赠 15 天会员
+[//]: # ()
+[//]: # (参与芦笋提词器的邀请活动，你将获得对应的会员奖励。你可以访问 [https://tcq.lusun.com/invite]&#40;https://tcq.lusun.com/invite&#41; 将生成自己的邀请链接/海报，Ta 人通过你的专属链接注册成功后，你将获得对应的会员奖励，同时 Ta 也将获赠 15 天会员)
 
 ## 参与芦笋提词器种草计划 {#plan}
 
