@@ -2,15 +2,15 @@
 description: 这篇文章介绍了芦笋提词器终身版 + 官方系统课的超豪华套餐内容
 ---
 
-# 🎩 终身版+官方系统课
+# 🎩 芦笋学苑系统课
 
 ## 基础信息
 
-* 购买链接：请点击这里：[https://tcq.lusun.com/pricing/](https://tcq.lusun.com/pricing/)
-* 了解更多会员权益，请参考 [芦笋提词器会员特权介绍](https://docs.lusun.com/tcq/basic/vip.html)
+* 🔥 买芦笋提词器终身版，限时送全套课程 👉🏻 [**【0元听课】点击了解！**](https://tcq.lusun.com/pricing/)
+* 购买 **芦笋学苑-官方系统课** 一站搞定直播录课，还有一对一指导 ~ <ContactButton url="https://work.weixin.qq.com/kfid/kfca61f545915189e02"></ContactButton>
 
-<ImgCenter><img src="/assets/lusunlesson1.jpg" alt="" width="80%"></ImgCenter>
-<ImgDesc>官网直播录课-系统课</ImgDesc>
+<ImgCenter><img src="/assets/lusunlesson5.png" alt="" width="100%"></ImgCenter>
+<ImgDesc>👆🏻 扫码购买-官方系统课</ImgDesc>
 
 ## 客服咨询
 
