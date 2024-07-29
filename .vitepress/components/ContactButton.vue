@@ -1,6 +1,6 @@
 <template>
   <div class="button-container" @click="openCustomerService">
-    <span class="button-text">联系客服</span>
+    <span class="button-text"> ⭐️ 咨询客服</span>
   </div>
 </template>
 
