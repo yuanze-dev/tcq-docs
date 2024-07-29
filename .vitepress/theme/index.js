@@ -3,6 +3,7 @@ import ImgCenter from "../components/ImgCenter.vue";
 import ImgDesc from "../components/ImgDesc.vue";
 import Link from "../components/Link.vue";
 import UserGroup from "../components/UserGroup.vue";
+import ContactButton from "../components/ContactButton.vue";
 import DefaultTheme from "vitepress/theme";
 import { onMounted, watch, nextTick } from "vue";
 import { useRoute } from "vitepress";
@@ -18,6 +19,7 @@ export default {
     app.component("ImgCenter", ImgCenter);
     app.component("ImgDesc", ImgDesc);
     app.component("Link", Link);
+    app.component("ContactButton", ContactButton);
   },
   setup() {
     const route = useRoute();

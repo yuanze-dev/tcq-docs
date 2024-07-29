@@ -59,12 +59,12 @@ export default defineConfig({
             text: "⌨️ 提词遥控器",
             link: "/advanced/remote",
           },
+          // {
+          //   text: "🫡 OBS精品课",
+          //   link: "/advanced/obslesson",
+          // },
           {
-            text: "🫡 五年会员+OBS精品课",
-            link: "/advanced/obslesson",
-          },
-          {
-            text: "🎩 终身版+官方系统课",
+            text: "🎩 芦笋学苑-官方系统课",
             link: "/advanced/lusunlesson",
           },
         ],
