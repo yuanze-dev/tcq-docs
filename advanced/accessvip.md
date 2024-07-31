@@ -8,7 +8,7 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 
 ## 看教程领会员
 
-了解芦笋提词器的入门教程，看完即可领取「**免费会员福利**」。你可以访问 [https://help.lusun.com/lstcqjc/](https://help.lusun.com/lstcqjc/) 领取新人专属 3 天会员试用
+了解芦笋提词器的入门教程，看完即可领取「**免费会员福利**」。你可以访问 [https://help.lusun.com/lstcqjc/](https://help.lusun.com/lstcqjc/) 领取新人专属 1 天会员试用
 
 [//]: # (## 邀请好友得会员 {#invite})
 
