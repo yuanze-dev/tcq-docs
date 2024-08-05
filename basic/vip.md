@@ -3,6 +3,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 ---
 
 <style scoped>
+/* 隐藏块的小标题 */
 .custom-block-title{
   display:none
 }

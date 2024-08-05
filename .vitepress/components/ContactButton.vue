@@ -1,12 +1,4 @@
-<template>
-  <div class="button-container" @click="openCustomerService">
-    <span class="button-text"> ⭐️ 咨询客服</span>
-  </div>
-</template>
-
 <script setup>
-import { defineProps } from 'vue';
-
 const props = defineProps({
   url: {
     type: String,
@@ -19,6 +11,12 @@ const openCustomerService = () => {
 };
 </script>
 
+<template>
+  <div class="button-container" @click="openCustomerService">
+    <span class="button-text"> ⭐️ 咨询客服</span>
+  </div>
+</template>
+
 <style scoped>
 .button-container {
   display: inline-flex;
@@ -28,15 +26,18 @@ const openCustomerService = () => {
   color: #fff;
   background-color: #4CAF50;
   border: none;
-  border-radius: 8px; /* 圆角 */
+  border-radius: 8px;
+  /* 圆角 */
   cursor: pointer;
   text-decoration: none;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  /* 添加阴影 */
 }
 
 .button-text {
   vertical-align: middle;
-  font-weight: bold; /* 加粗文字 */
+  font-weight: bold;
+  /* 加粗文字 */
 }
 
 .button-container:hover {
