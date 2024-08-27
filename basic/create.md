@@ -42,6 +42,6 @@ description: 这里介绍了如何在芦笋提词器创建文稿
 
 <ImgCenter><img src="/assets/搜索.gif" alt=""></ImgCenter>
 
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>

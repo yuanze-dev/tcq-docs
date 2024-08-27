@@ -20,6 +20,6 @@ description: 这里记录了芦笋提词器的常见 FAQ
 
 具体操作设置，请参考 [提词设置](/basic/setting) 教程
 
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>

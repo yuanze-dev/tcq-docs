@@ -74,20 +74,19 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 你可以通过芦笋提词器的客户端直接升级，也可以通过访问 [https://tcq.lusun.com/pricing/](https://tcq.lusun.com/pricing/) 付费升级
 
-<ImgCenter><img src="/assets/pricing_240621.jpg" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/pricing_240827.png" alt=""></ImgCenter>
 
-#### 【五年会员 + 精品课】介绍 {#introduce}
+## 【终身版会员+精品课】介绍 {#introduce}
 
-现在购买【五年会员 + 精品课】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
+现在购买[【五年会员 + 精品课】](https://tcq.lusun.com/pricing/?from=helpcenter)套餐：可以获得价值 ¥388 的芦笋官方宝藏教学礼包  
 
-**课程内容大纲**：
+**课程服务内容：**
+<ImgCenter><img src="/assets/课程权益.png" alt=""></ImgCenter>
 
-<ImgCenter><img src="/assets/xzwk5.png" alt=""></ImgCenter>
+**系统课程大纲**：
 
-购买 [【五年会员 + 精品课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
+<ImgCenter><img src="/assets/正价课大纲.jpg" alt="" width=375 ></ImgCenter>
 
-<ImgCenter><img src="/assets/xiaozhu.jpeg" alt="" width="375"></ImgCenter>
-
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>

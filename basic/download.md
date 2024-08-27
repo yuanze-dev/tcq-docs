@@ -43,6 +43,6 @@ macOs 系统安装：双击打开安装包，拖拽到 Application 文件夹即�
 
 <ImgCenter><img src="/assets/iShot_2024-03-28_14.06.22.png" alt=""></ImgCenter>
 
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>

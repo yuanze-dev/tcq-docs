@@ -28,6 +28,6 @@ description: 这里介绍了如何给提词器设置背景透明度，速度快�
 <ImgCenter><img src="/assets/shortcut-key.png" alt=""  width="100%"></ImgCenter>
 <ImgDesc>快捷键设置</ImgDesc>
 
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>

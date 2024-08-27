@@ -33,6 +33,6 @@ description: 这里介绍了芦笋提词器是什么，使用场景以及功能�
 
 <ImgCenter><video controls width="50%"><source src="/assets/android.mp4" type="video/mp4" /></video></ImgCenter>
 
-### 用户交流群 {#group}
+**问题反馈** {#group}
 
 <UserGroup/>

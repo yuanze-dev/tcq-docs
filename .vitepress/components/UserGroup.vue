@@ -1,5 +1,5 @@
 <template>
-  <p>欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～</p>
-  <ImgCenter><img src="/assets/quncode.png" alt="" width="200"></ImgCenter>
-  <ImgDesc>芦笋提词器用户交流群</ImgDesc>
+  <p> </p>
+  <p>👇🏻 如有其他使用问题，点击下方联系我们</p>
+  <ContactButton url="https://txc.qq.com/products/666581"></ContactButton>
 </template>

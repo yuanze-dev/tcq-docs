@@ -42,6 +42,6 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 
 <img src="/assets/yxtici.gif" alt="">
 
-**用户交流群**
+**问题反馈**
 
 <UserGroup/>
