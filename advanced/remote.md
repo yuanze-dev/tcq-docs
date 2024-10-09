@@ -48,9 +48,9 @@ https://sourl.cn/GMWjF8
 
 提词器会员：[购买链接直达](https://tcq.lusun.com/pricing/)
 
-芦笋遥控器单品购买如下：
+若需单独购买遥控器，请扫描下方二维码联系客服购买：
 
-<ImgCenter><img src="/assets/yaokongqigoumai.jpeg" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/assets/diandian-qrcode.png" alt="" width="375"></ImgCenter>
 
 ## 三、如何连接电脑 {#connect}
 
