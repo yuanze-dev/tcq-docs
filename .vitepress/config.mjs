@@ -45,7 +45,7 @@ export default defineConfig({
           { text: "🌟 会员特权", link: "/basic/vip" },
           { text: "❓ 常见问题", link: "/basic/faq" },
           { text: "🗳️ 申请发票", link: "/basic/invoice" },
-          { text: "📱 Android 悬浮提词", link: "/basic/android" },
+          { text: "📱 手机端教程", link: "/basic/mobile" },
         ],
       },
       {
