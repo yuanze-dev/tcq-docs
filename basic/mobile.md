@@ -148,3 +148,5 @@ icon: mobile
 <ImgCenter><img src="/assets/iOS智能跟读设置.png" alt=""></ImgCenter>
 
 **注意事项**：智能跟读提词模式，需要获取手机的**麦克风权限**
+
+<UserGroup/>
