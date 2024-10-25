@@ -10,23 +10,27 @@ icon: mobile
 ### 如何下载 {#AndroidDownload}
 
 方式一：访问芦笋提词器官网 https://tcq.lusun.com/download 扫码下载
+
 方式二：在手机应用商店中，搜索“芦笋提词器”，点击安装，即可在手机上安装使用
 
-<ImgCenter><img src="/assets/安卓应用商店.png" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/安卓应用商店.png" alt="" width="188"></ImgCenter>
 
 ### 如何登录 {#AndroidLogin}
 
 登录方式一：点击中间的“微信登录”，会使用该手机当前登录的微信，进行授权登录
+
 登录方式二：点击底部的手机按钮，可用手机号+验证码的方式登录
 
-<ImgCenter><img src="/assets/安卓登录.png" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/安卓登录.png" alt="" width="188"></ImgCenter>
 
 **注意事项**：芦笋提词器手机端和电脑端账号通用，确保手机和电脑登录的是同一个账号，才能看到同步的词条内容
 
 ### 如何创建台词 {#AndroidAddContent}
 
 第一步：点击底部➕创建
+
 第二步：输入提词标题和提词正文内容，也可复制粘贴提词内容
+
 第三步：提词文本内容支持设置富文本格式，包括“加粗”、“斜体”、“删除线”和“字体颜色”，也可清除字体格式。
 
 <ImgCenter><img src="/assets/安卓创建台词.png" alt=""></ImgCenter>
@@ -34,7 +38,9 @@ icon: mobile
 ### 如何使用提词板提词
 
 第一步：在提词列表中，点击对应词条的“开始提词”
+
 第二步：底部弹窗中点击“提词版”
+
 第三步：点击中间播放按钮，提词内容开始匀速滚动
 
 <ImgCenter><img src="/assets/安卓提词板提词.png" alt=""></ImgCenter>
@@ -50,6 +56,7 @@ icon: mobile
 ### 如何使用悬浮提词 {#AndroidFloatView}
 
 第一步：在提词列表中，点击对应词条的“**开始提词**”
+
 第二步：底部弹窗中点击“**悬浮提词**”
 
 <ImgCenter><img src="/assets/安卓悬浮提词.png" alt=""></ImgCenter>
@@ -80,9 +87,10 @@ icon: mobile
 
 ### 如何开启智能跟读 {#AndroidAIRead}
 
-<ImgCenter><img src="/assets/安卓智能跟读.gif" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/安卓智能跟读.gif" alt="" width="188"></ImgCenter>
 
 第一步：在提词页面点击右下角“**设置**”
+
 第二步：点击“**智能跟读**”，切换提词模式，读到哪提词内容滚动到哪
 
 <ImgCenter><img src="/assets/安卓智能跟读设置.png" alt=""></ImgCenter>
@@ -95,21 +103,24 @@ icon: mobile
 
 在App Store中（苹果手机应用商店），搜索“芦笋提词器”，点击获取，即可安装使用
 
-<ImgCenter><img src="/assets/iOS下载.png" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/iOS下载.png" alt="" width="188"></ImgCenter>
 
 ### 如何登录 {#iOSLogin}
 
 登录方式一：点击中间的“微信登录”，会使用该手机当前登录的微信，进行授权登录
+
 登录方式二：点击底部的手机按钮，可用手机号+验证码的方式登录
 
-<ImgCenter><img src="/assets/iOS登录.png" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/iOS登录.png" alt="" width="188"></ImgCenter>
 
 **注意事项**：芦笋提词器手机端和电脑端账号通用，确保手机和电脑登录的是同一个账号，才能看到同步的词条内容
 
 ### 如何创建台词 {#iOSAddContent}
 
 第一步：点击底部➕创建
+
 第二步：输入提词标题和提词正文内容，也可复制粘贴提词内容
+
 第三步：提词文本内容支持设置富文本格式，包括“加粗”、“斜体”、“删除线”和“字体颜色”，也可清除字体格式。
 
 <ImgCenter><img src="/assets/iOS创建台词.png" alt=""></ImgCenter>
@@ -117,7 +128,9 @@ icon: mobile
 ### 如何使用提词板提词 {#iOSBoard}
 
 第一步：在提词列表中，点击对应词条的“开始提词”
+
 第二步：底部弹窗中点击“提词版”
+
 第三步：点击中间播放按钮，提词内容开始匀速滚动
 
 <ImgCenter><img src="/assets/iOS提词板提词.png" alt=""></ImgCenter>
@@ -133,16 +146,19 @@ icon: mobile
 ### 如何使用悬浮提词 {#iOSFloatView}
 
 第一步：在提词列表中，点击对应词条的“**开始提词**”
+
 第二步：底部弹窗中点击“**悬浮提词**”
+
 第三步：屏幕顶部出现悬浮提词窗，此时可上滑退出提词器，打开手机相机进行拍摄提词或直播提词
 
 <ImgCenter><img src="/assets/iOS悬浮提词.png" alt=""></ImgCenter>
 
 ### 如何开启智能跟读 {#iOSAIRead}
 
-<ImgCenter><img src="/assets/iOS智能跟读.gif" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/iOS智能跟读.gif" alt="" width="188"></ImgCenter>
 
 第一步：在提词页面点击右下角“**设置**”
+
 第二步：点击“**智能跟读**”，切换提词模式，读到哪提词内容滚动到哪
 
 <ImgCenter><img src="/assets/iOS智能跟读设置.png" alt=""></ImgCenter>
