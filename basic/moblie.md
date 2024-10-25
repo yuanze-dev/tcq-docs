@@ -66,7 +66,7 @@ icon: mobile
 
 如果要在悬浮提词时使用智能跟读模式还需要录音和无障碍权限，录音权限开启比较简单，在权限检查页面的录音权限点击"去开启"，选择"仅在使用中允许"即可。
 
-<ImgCenter><img src="/assets/20240809-155321.jpg" alt="" width="188"></ImgCenter>
+<ImgCenter><img src="/assets/20240809-155321.png" alt="" width="188"></ImgCenter>
 
 **开启无障碍权限**
 
