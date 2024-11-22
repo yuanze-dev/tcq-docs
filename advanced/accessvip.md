@@ -19,14 +19,13 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 
 如何参与芦笋提词器的种草笔记？你可以撰写一篇芦笋提词器的种草笔记（图文/视频均可），并发布在**小红书**或**抖音**平台，添加话题 <span style="color:green;"> **#芦笋提词器**</span> <span style="color:green;">**#直播提词 #AI 提词​**</span>
 
-即可获得领取 2 个福利
+即可领取以下福利
 
-* 你将获得芦笋提词器 30 日高级会员兑换码
-* 你将获得满 300 减 30 权益
+* 购买会员满 300 减 50 权益一次
 
 > 不知道文案和配图怎么准备？点击[这里](materials.md)获取素材
 
-<ImgCenter><img src="/assets/duozhongcao.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/assets/tcq_duozhongcao.jpeg" alt="" width="375"></ImgCenter>
 <ImgDesc>芦笋提词器种草计划</ImgDesc>
 
 ### 如何使用兑换码？{#exchange}
