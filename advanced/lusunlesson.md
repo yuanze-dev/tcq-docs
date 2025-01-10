@@ -8,7 +8,7 @@ description: 这篇文章介绍了芦笋提词器终身版 + 官方系统课的�
 
 * 购买 **芦笋学苑-官方系统课** 一站搞定直播录课，还有一对一指导 ~  <ContactButton url="https://work.weixin.qq.com/kfid/kfca61f545915189e02"></ContactButton>
 
-<ImgCenter><img src="/assets/lusunlesson5.png" alt="" width="100%"></ImgCenter>
+<ImgCenter><img src="/assets/lusunlesson5.jpg" alt="" width="100%"></ImgCenter>
 <ImgDesc>👆🏻 扫码购买-官方系统课</ImgDesc>
 
 <!-- ## 客服咨询
@@ -20,15 +20,12 @@ description: 这篇文章介绍了芦笋提词器终身版 + 官方系统课的�
 
 ## 权益说明 {#vip}
 
-* 35节系统化课程，直播、录课二合一课程
+* 34节系统化课程，直播、录课二合一课程
 * 提词器终身版会员，智能跟读无限使用，一次付费终身更新
 * 赠送芦笋遥控器，支持控制手机、电脑提词器和多种直播平台
 * 芦笋学苑知识库分享，超 100G 海量素材任意下载
 * 一对一指导答疑服务(1次)，场景搭建、设备调试、画面设置等
 * 社群圈子，同行交流社群，一手信息分享、经验交流、答疑解惑
-
-<ImgCenter><img src="/assets/lusunlesson3.png" alt="" width="80%"></ImgCenter>
-<ImgDesc>权益说明</ImgDesc>
 
 ## 课程大纲 {#outline}
 
