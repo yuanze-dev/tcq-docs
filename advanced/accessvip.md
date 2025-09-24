@@ -28,16 +28,16 @@ description: 这里介绍了如何免费领取芦笋提词器高级会员，以�
 
 你只需要：
 
-1. **扫码加客服**：领取我们精心制作的图文或视频素材。
+1. **扫码加福利官**：领取我们精心制作的图文或视频素材。
 2. **直接发布**：将素材发布到你的**小红书**账号（如果没有小红书，抖音也可以）。
-3. **领奖励**：向客服提交你的发布链接，立即领取奖励！
+3. **领奖励**：向福利官提交你的发布链接，立即领取奖励！
 
-客服联系方式
+福利官联系方式
 
 <!-- <ImgCenter><img src="/assets/zhongcao_kefu.png" alt=""></ImgCenter>
-<ImgDesc>扫码联系客服</ImgDesc> -->
+<ImgDesc>扫码联系福利官</ImgDesc> -->
 <ImgCenter><img src="/assets/zhongcao_kefu.png" alt=""></ImgCenter>
-<ImgDesc>扫码联系客服领取素材</ImgDesc>
+<ImgDesc>扫码联系福利官领取素材</ImgDesc>
 
 ### 如何使用兑换码？{#exchange}
 
