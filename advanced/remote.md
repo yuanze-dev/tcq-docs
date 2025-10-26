@@ -2,12 +2,6 @@
 description: 关于如何使用芦笋遥控器，看这篇就够了
 ---
 
-> 购买「芦笋提词器三年或五年会员」后，点击下方链接领取 👇🏻
-
-https://sourl.cn/GMWjF8
-
-购买提词器三年或五年会员赠送的遥控器，可以填写这个表单领取哈，我们将在收到信息的 3 个工作日之内安排寄出
-
 # ⌨️ 提词遥控器
 
 > 关于如何使用芦笋遥控器，看这篇就够了
@@ -50,7 +44,7 @@ https://sourl.cn/GMWjF8
 
 若需单独购买遥控器，请扫描下方二维码联系客服购买：
 
-<ImgCenter><img src="/assets/diandian-qrcode.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="/assets/tici-qrcode.png" alt="" width="375"></ImgCenter>
 
 ## 三、如何连接电脑 {#connect}
 

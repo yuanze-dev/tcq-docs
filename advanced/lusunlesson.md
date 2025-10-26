@@ -36,7 +36,7 @@ description: 这篇文章介绍了芦笋提词器终身版 + 官方系统课的�
 
 > 购买后，你的芦笋提词器账号将自动升级，课程获取请联系：
 
-<ImgCenter><img src="/assets/lusunlesson2.png" alt="" width="50%"></ImgCenter>
+<ImgCenter><img src="/assets/tici-lesson.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>扫码领取课程</ImgDesc>
 
 <ImgCenter>
