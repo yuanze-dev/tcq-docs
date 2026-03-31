@@ -8,7 +8,7 @@ description: 这里记录了芦笋提词器的常见 FAQ
 
 <ImgCenter><video controls><source src="/assets/fupingwenti.mp4" type="video/mp4" /></video></ImgCenter>
 
-### Q2：如果你的智能跟读不滚动，那应该是麦克风识不识别，如果判断呢，请参考 {#q2}
+### Q2：如果你的智能跟读不滚动，那应该是麦克风没有识别，如果判断呢，请参考 {#q2}
 
 <ImgCenter><video controls><source src="/assets/shibiemaikefeng.mp4" type="video/mp4" /></video></ImgCenter>
 
