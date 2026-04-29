@@ -60,6 +60,10 @@ export default defineConfig({
             text: "⌨️ 提词遥控器",
             link: "/advanced/remote",
           },
+          {
+            text: "🆕 新版遥控器",
+            link: "/advanced/newremote",
+          },
           // {
           //   text: "🫡 OBS精品课",
           //   link: "/advanced/obslesson",
