@@ -20,6 +20,10 @@ description: 这里记录了芦笋提词器的常见 FAQ
 
 具体操作设置，请参考 [提词设置](/basic/setting) 教程
 
+### Q5：直播伴侣采集不到提词窗口怎么办？{#q5}
+
+<ImgCenter><video controls><source src="/assets/直播伴侣.mp4" type="video/mp4" /></video></ImgCenter>
+
 **问题反馈**
 
 <UserGroup/>
