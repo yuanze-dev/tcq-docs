@@ -56,9 +56,13 @@ export default defineConfig({
             text: "🥳 免费领会员",
             link: "/advanced/accessvip",
           },
+          // {
+          //   text: "⌨️ 提词遥控器",
+          //   link: "/advanced/remote",
+          // },
           {
-            text: "⌨️ 提词遥控器",
-            link: "/advanced/remote",
+            text: "🎮 芦笋遥控器",
+            link: "/advanced/remote-new",
           },
           // {
           //   text: "🫡 OBS精品课",
@@ -67,6 +71,10 @@ export default defineConfig({
           {
             text: "🎩 芦笋学苑-官方系统课",
             link: "/advanced/lusunlesson",
+          },
+          {
+            text: "🎵 AI直播间助手",
+            link: "/advanced/ai-assistant",
           },
         ],
       },
