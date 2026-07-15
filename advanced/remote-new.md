@@ -25,14 +25,14 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 1.  遥控器PPT录制模式，搭配录制课程使用更高效
 
-<ImgCenter><video controls width="50%"><source src="/assets/提词器+PPT模式.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls width="50%"><source src="/assets/ykqppt.mp4" type="video/mp4" /></video></ImgCenter>
 
 <ImgCenter><img src="/assets/PPT模式.png" alt=""></ImgCenter>
 <ImgDesc>PPT模式按键说明</ImgDesc>
 
 2.  遥控器自定义模式，搭配其他软件使用
 
-<ImgCenter><video controls><source src="/assets/提词器+obs.mp4" type="video/mp4" /></video></ImgCenter>
+<ImgCenter><video controls><source src="/assets/ykqobs.mp4" type="video/mp4" /></video></ImgCenter>
 
 <ImgCenter><img src="/assets/自定义模式.png" alt=""></ImgCenter>
 <ImgDesc>自定义按键说明</ImgDesc>
