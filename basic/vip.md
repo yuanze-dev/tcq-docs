@@ -76,7 +76,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 ## 如何购买 {#buy}
 
-你可以通过芦笋提词器的客户端直接购买，也可以通过访问 [https://tcq.lusun.com/new-pricing-next](https://tcq.lusun.com/new-pricing-next) 付费升级
+你可以通过芦笋提词器的客户端直接购买，也可以通过访问 [芦笋提词器 VIP 会员](https://tcq.lusun.com/pricing-next/) 付费升级
 
 <ImgCenter><img src="/assets/pricing_241115.png" alt=""></ImgCenter>
 

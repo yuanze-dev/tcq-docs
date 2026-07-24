@@ -49,7 +49,7 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 > 现在如果你购买芦笋提词器三年会员或终身会员，即可赠送一个芦笋遥控器
 
-提词器会员：[购买链接直达](https://tcq.lusun.com/new-pricing-next)
+提词器会员：[购买链接直达](https://tcq.lusun.com/pricing-next/)
 
 若需单独购买遥控器，请扫描下方二维码联系客服购买：
 
