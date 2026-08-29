@@ -52,9 +52,9 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 2.打开电脑蓝牙
 
-win10 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/article/c33e3f48bdd46bab14cbb568.html?ref=help.lusun.com)
+win10 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/article/c33e3f48bdd46bab14cbb568.html)
 
-win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/article/2d5afd6903da6bc4a3e28e24.html?ref=help.lusun.com)
+win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/article/2d5afd6903da6bc4a3e28e24.html)
 
 3.点击“添加蓝牙或其他设备”
 
@@ -99,12 +99,12 @@ win11 如何开启蓝牙 👉🏻[点击查看](https://jingyan.baidu.com/articl
 
 「1」若电脑有蓝牙功能：建议升级蓝牙驱动，再尝试连接
 
-  * Win10 更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/6fb756ec84280b651958fb38.html?ref=help.lusun.com)
-  * Win11 更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/19192ad8082213a43f570709.html?ref=help.lusun.com)
+  * Win10 更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/6fb756ec84280b651958fb38.html)
+  * Win11 更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/19192ad8082213a43f570709.html)
 
 「2」若无蓝牙功能，需要购买一个蓝牙适配器「蓝牙 5.1 以上」购买推荐
 
-拼多多购买👉🏻 [拼多多商城](https://mobile.yangkeduo.com/goods1.html?refer\_share\_id=Wu51UnPZYQKVZ5mrwPYqbVonUWv2fxuJ\&refer\_share\_channel=copy\_link&\_oak\_share\_detail\_id=3967211238\&pxq\_secret\_key=643ZNGHJQ6FP4YXPWOPYAAKUHPBNIJO6SH6RDU2MIEQCPYQ6L4ZQ&\_wvx=10&\_oak\_share\_time=1706074897&\_wv=41729\&share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA&\_x\_query=%E8%93%9D%E7%89%99%E9%80%82%E9%85%8D%E5%99%A8\&page\_from=23\&refer\_share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA\&goods\_id=513430445715&\_oak\_share\_snapshot\_num=503&\_x\_org=2\&ref=help.lusun.com)
+拼多多购买👉🏻 [拼多多商城](https://mobile.yangkeduo.com/goods1.html?refer\_share\_id=Wu51UnPZYQKVZ5mrwPYqbVonUWv2fxuJ\&refer\_share\_channel=copy\_link&\_oak\_share\_detail\_id=3967211238\&pxq\_secret\_key=643ZNGHJQ6FP4YXPWOPYAAKUHPBNIJO6SH6RDU2MIEQCPYQ6L4ZQ&\_wvx=10&\_oak\_share\_time=1706074897&\_wv=41729\&share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA&\_x\_query=%E8%93%9D%E7%89%99%E9%80%82%E9%85%8D%E5%99%A8\&page\_from=23\&refer\_share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA\&goods\_id=513430445715&\_oak\_share\_snapshot\_num=503&\_x\_org=2)
 
 淘宝购买👉🏻 [淘宝商城](https://m.tb.cn/h.5JlCckAdbgbQTBe?tk=Tx0BWR6x1BX)
 
