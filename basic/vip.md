@@ -33,16 +33,13 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
   </thead>
   <tbody>
     <tr>
-      <td>词条个数</td><td>3 个</td><td>不限</td><td>不限</td><td>不限</td><td>不限</td><td>不限</td>
-    </tr>
-    <tr>
       <td>登录设备数</td><td>1 台</td><td>2 台</td><td>2 台</td><td>5 台</td><td>🌟5 台</td><td>🌟5 台</td>
     </tr>
     <tr>
       <td>匀速提词</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>智能跟读</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>智能跟读</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
       <td>富文本编辑</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
@@ -63,7 +60,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
       <td>文本备注</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>多设备同步</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>多设备同步</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
       <td>遥控器赠送</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
