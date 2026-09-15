@@ -45,19 +45,19 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
       <td>富文本编辑</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>AI提词灵感</td><td>❌</td><td>100 次</td><td>600 次</td><td>2500 次</td><td>7000 次</td><td>15000 次</td>
+      <td>AI提词灵感</td><td>10 次</td><td>100 次</td><td>600 次</td><td>2500 次</td><td>7000 次</td><td>15000 次</td>
     </tr>
     <tr>
-      <td>积分</td><td>❌</td><td>300 次</td><td>1000 次</td><td>2000 次</td><td>7000 次</td><td>7000 次</td>
+      <td>积分</td><td>20 次</td><td>300 次</td><td>1000 次</td><td>2000 次</td><td>7000 次</td><td>7000 次</td>
     </tr>
     <tr>
       <td>透明度调节</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>多词条展示</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>多词条展示</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>文本备注</td><td>❌</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>文本备注</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
       <td>多设备同步</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
@@ -81,8 +81,6 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 :::
 
 你可以通过芦笋提词器的客户端直接购买，也可以通过访问 [芦笋提词器 VIP 会员](https://tcq.lusun.com/pricing-next/) 付费升级
-
-<ImgCenter><img src="/assets/pricing_241115.png" alt=""></ImgCenter>
 
 ## 【官方系统课 + 终身版会员】介绍 {#introduce}
 
