@@ -8,6 +8,9 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      # 原则数据 client write key。静态站点在构建期烘进产物，因此必须是构建变量。
+      YUANZE_WRITE_KEY: ${{ secrets.YUANZE_WRITE_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,6 +24,10 @@ jobs:
         uses: yuanze-dev/pnpm-install-with-cache@v2
         with:
           pnpm-version: 9
+
+      - name: Verify Yuanze tracking key
+        # 缺 key 就构建会产出没有埋点的站点，静默交付比直接失败更糟。
+        run: test -n "$YUANZE_WRITE_KEY"
 
       - name: Build project
         run: pnpm build

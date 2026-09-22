@@ -4,6 +4,14 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   base: "/tcq/",
   ignoreDeadLinks: true,
+  // 构建期注入原则数据 write key。静态站点只能读到构建时烘进产物的值，
+  // 因此这里读的是 CI 环境变量，不是运行时的 process.env。
+  // 缺省为空串：本地开发不初始化埋点，正式构建由工作流强制校验非空。
+  vite: {
+    define: {
+      __YUANZE_WRITE_KEY__: JSON.stringify(process.env.YUANZE_WRITE_KEY ?? ""),
+    },
+  },
   title: "芦笋提词器",
   description: "智能跟读、滚屏提词和隐形提词的提词工具",
   lang: "zh-Hans",
