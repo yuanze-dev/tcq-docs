@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@yuanze_dev/tracker':
+        specifier: 0.17.0
+        version: 0.17.0
       medium-zoom:
         specifier: ^1.1.0
         version: 1.1.0
@@ -464,6 +467,15 @@ packages:
 
   '@vueuse/shared@10.11.0':
     resolution: {integrity: sha512-fyNoIXEq3PfX1L3NkNhtVQUSRtqYwJtJg+Bp9rIzculIZWHTkKSysujrOk2J+NrRulLTQH9+3gGSfYLWSEWU1A==}
+
+  '@yuanze_dev/tracker@0.17.0':
+    resolution: {integrity: sha512-krjRckmuTlUkzY+NWsRNTV5bKydwAjK6EOxT/DE43WBqJchGTFf5BIPQeWEnBtWLThH/ZN6W/mPGLLBErO5wIQ==}
+    hasBin: true
+    peerDependencies:
+      react: '>=18'
+    peerDependenciesMeta:
+      react:
+        optional: true
 
   algoliasearch@4.24.0:
     resolution: {integrity: sha512-bf0QV/9jVejssFBmz2HQLxUadxk574t4iwjCKp5E7NBzwKkrDEhKPISIIjAU/p6K5qDx3qoeh4+26zWN1jmw3g==}
@@ -1026,6 +1038,8 @@ snapshots:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
+
+  '@yuanze_dev/tracker@0.17.0': {}
 
   algoliasearch@4.24.0:
     dependencies:
