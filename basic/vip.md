@@ -80,7 +80,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 - 如果买错会员套餐，或者想要升级调整会员，可以[联系客服](/contact)
 :::
 
-你可以通过芦笋提词器的客户端直接购买，也可以通过访问 [芦笋提词器 VIP 会员](https://tcq.lusun.com/pricing-next/) 付费升级
+你可以通过芦笋提词器的客户端直接购买，也可以通过访问 [芦笋提词器 VIP 会员](https://tcq.lusun.com/pricing/) 付费升级
 
 ## 【官方系统课 + 终身版会员】介绍 {#introduce}
 
