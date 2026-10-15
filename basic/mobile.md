@@ -119,9 +119,9 @@ icon: mobile
 
 <ImgCenter><img src="/assets/拍摄提词.png" alt=""></ImgCenter>
 
-### 如何管理设备 {#AndroidManageDevices}
+### 如何管理登录 {#AndroidManageDevices}
 
-点击软件我的页面“设置”，选择“设备管理”，即可查看并管理账号的设备登录情况
+点击软件我的页面“设置”，选择“登录管理”，即可查看账号当前在哪些地方登录，并下线不再使用的登录
 
 <ImgCenter><img src="/assets/设备管理.png" alt=""></ImgCenter>
 
@@ -239,9 +239,9 @@ icon: mobile
 
 <ImgCenter><img src="/assets/拍摄提词.png" alt=""></ImgCenter>
 
-### 如何管理设备 {#iOSManageDevices}
+### 如何管理登录 {#iOSManageDevices}
 
-点击软件我的页面“设置”，选择“设备管理”，即可查看并管理账号的设备登录情况
+点击软件我的页面“设置”，选择“登录管理”，即可查看账号当前在哪些地方登录，并下线不再使用的登录
 
 <ImgCenter><img src="/assets/设备管理.png" alt=""></ImgCenter>
 
