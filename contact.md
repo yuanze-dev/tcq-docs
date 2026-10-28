@@ -11,7 +11,7 @@ description: 这里介绍了如何联系「芦笋提词器」官方，你可以�
 - 你也可以关注「芦笋」微信公众号
 - 或扫码提交反馈问题
 
-<ImgCenter><img src="/assets/tcq_wechat2.png" alt=""></ImgCenter>
+<ImgCenter><img src="/assets/tcq_wechat3.png" alt=""></ImgCenter>
 
 ## 😁 了解官方 {#know-us}
 
