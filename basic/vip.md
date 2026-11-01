@@ -27,46 +27,45 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
       <th width="110">月会员</th>
       <th width="110">季会员</th>
       <th width="110">年会员</th>
-      <th width="110">3年会员</th>
       <th width="110">终身会员</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>同时登录数</td><td>1 处</td><td>2 处</td><td>2 处</td><td>5 处</td><td>🌟5 处</td><td>🌟5 处</td>
+      <td>同时登录数</td><td>1 处</td><td>2 处</td><td>2 处</td><td>5 处</td><td>🌟5 处</td>
     </tr>
     <tr>
-      <td>匀速提词</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>匀速提词</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>智能跟读</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>智能跟读</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>富文本编辑</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>富文本编辑</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>AI提词灵感</td><td>10 次</td><td>100 次</td><td>600 次</td><td>2500 次</td><td>7000 次</td><td>15000 次</td>
+      <td>AI提词灵感</td><td>10 次</td><td>100 次</td><td>600 次</td><td>2500 次</td><td>7000 次</td>
     </tr>
     <tr>
-      <td>积分</td><td>20 次</td><td>300 次</td><td>1000 次</td><td>2000 次</td><td>7000 次</td><td>7000 次</td>
+      <td>积分</td><td>20 次</td><td>300 次</td><td>1000 次</td><td>2000 次</td><td>15000 次</td>
     </tr>
     <tr>
-      <td>透明度调节</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>透明度调节</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>多词条展示</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>多词条展示</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>文本备注</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>文本备注</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>多设备同步</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      <td>多设备同步</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
     </tr>
     <tr>
-      <td>遥控器赠送</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
+      <td>遥控器赠送</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td>
     </tr>
     <tr>
-      <td>OBS 精品课</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td>
+      <td>OBS 精品课</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>✅</td>
     </tr>
   </tbody>
 </table>
